@@ -1,10 +1,10 @@
-Id Cliente;Cliente;Id UF
-1;Rede BIG;35
-2;Rede Good;35
-3;Rede Hiper;33
-4;Hiper Plus;31
-5;Super Extra;42
-6;Super Mega;42
-7;Hiper Loja;35
-8;Atacarejo;35
-9;Tem Tudo;31
+Id Cliente,Cliente,Id UF
+1,Rede BIG,35
+2,Rede Good,35
+3,Rede Hiper,33
+4,Hiper Plus,31
+5,Super Extra,42
+6,Super Mega,42
+7,Hiper Loja,35
+8,Atacarejo,35
+9,Tem Tudo,31
