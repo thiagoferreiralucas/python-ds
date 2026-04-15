@@ -1,0 +1,10 @@
+ID Produto,Produto,ID Categoria
+1,Processador i7,1
+2,SSD 1TB,2
+3,Placa de Vídeo RTX,1
+4,Memória RAM 16GB,1
+5,Teclado Mecânico,3
+6,HD Externo 2TB,2
+7,Mouse Gamer,3
+8,Cartão SD 128GB,2
+9,Monitor 4K,3

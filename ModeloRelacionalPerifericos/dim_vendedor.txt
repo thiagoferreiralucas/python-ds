@@ -1,0 +1,10 @@
+ID Vendedor,Vendedor
+1,Ricardo Almeida
+2,Beatriz Santos
+3,Thiago Oliveira
+4,Luciana Costa
+5,Roberto Junior
+6,Clarice Lispector
+7,André Felipe
+8,Mônica Silveira
+9,Felipe Dylon

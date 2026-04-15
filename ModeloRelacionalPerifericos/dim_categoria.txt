@@ -1,0 +1,4 @@
+ID Categoria,Categoria
+1,Componentes Internos
+2,Armazenamento de Dados
+3,Acessórios e Monitores

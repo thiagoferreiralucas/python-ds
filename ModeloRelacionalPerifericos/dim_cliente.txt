@@ -1,0 +1,10 @@
+ID Cliente,Cliente
+1,Tech Solutions
+2,Inova Digital
+3,Rio Hardware
+4,Minas Connect
+5,Sul Eletrônicos
+6,Mega Data
+7,Global IT
+8,Fast Store
+9,Ponto do PC
