@@ -1,0 +1,1001 @@
+ID Venda,Data da Venda,Produto,Cliente,Vendedor,Custo Unitário,Valor Unitário,Quantidade
+1001,2025-01-02,Frango,Hiper Plus,Márcio Mendes,15.52,11.95,26
+1002,2025-01-02,Soja,Tem Tudo,Fábio Aragão,1.95,8.35,96
+1003,2026-01-01,Maça,Rede Hiper,Samuel Neto,3.22,11.83,72
+1004,2024-01-02,Frango,Rede Good,Fernanda Souza,11.85,10.02,16
+1005,2024-01-02,Soja,Hiper Loja,Sara Marques,21.41,10.22,80
+1006,2025-01-03,Soja,Rede BIG,Fernanda Couto,7.82,10.02,98
+1007,2025-01-03,Uva,Rede Hiper,Samuel Neto,6.72,11.95,62
+1008,2024-01-04,Farinha De Milho,Hiper Loja,Sara Marques,9.7,10.02,55
+1009,2024-01-05,Maça,Atacarejo,Thalissa Amélia,2.23,10.02,81
+1010,2026-01-04,Carne Bovina,Tem Tudo,Fábio Aragão,9.91,8.35,29
+1011,2025-01-05,Farinha De Milho,Super Mega,Bruno Táles,8.47,10.02,56
+1012,2026-01-04,Carne Bovina,Rede Good,Fernanda Souza,4.76,10.02,49
+1013,2024-01-05,Farinha De Milho,Rede BIG,Fernanda Couto,2.21,10.02,65
+1014,2024-01-05,Trigo,Rede Hiper,Samuel Neto,4.47,11.95,49
+1015,2025-01-05,Peixe,Atacarejo,Thalissa Amélia,7.44,10.32,31
+1016,2025-01-07,Carne Bovina,Super Extra,Manoel  Bezerra ,3.25,10.02,18
+1017,2026-01-06,Trigo,Hiper Plus,Márcio Mendes,1.55,11.95,97
+1018,2025-01-07,Carne Bovina,Tem Tudo,Fábio Aragão,3.03,8.35,82
+1019,2024-01-07,Trigo,Super Extra,Manoel  Bezerra ,9.65,10.02,91
+1020,2025-01-11,Farinha De Milho,Tem Tudo,Fábio Aragão,3.46,8.35,65
+1021,2025-01-12,Soja,Hiper Loja,Sara Marques,5.65,10.02,52
+1022,2025-01-14,Trigo,Rede BIG,Fernanda Couto,6.43,10.02,22
+1023,2025-01-14,Peixe,Super Mega,Bruno Táles,6.18,10.02,11
+1024,2025-01-14,Farinha De Milho,Tem Tudo,Fábio Aragão,7.63,8.35,91
+1025,2024-01-14,Maça,Rede BIG,Fernanda Couto,4.41,10.02,114
+1026,2025-01-15,Uva,Hiper Plus,Márcio Mendes,3.99,11.95,10
+1027,2024-01-15,Peixe,Atacarejo,Thalissa Amélia,12.21,10.02,24
+1028,2024-01-15,Uva,Atacarejo,Thalissa Amélia,14.78,10.02,44
+1029,2024-01-15,Maça,Atacarejo,Thalissa Amélia,8.09,10.02,79
+1030,2024-01-17,Peixe,Atacarejo,Thalissa Amélia,9.17,10.02,36
+1031,2026-01-17,Trigo,Atacarejo,Thalissa Amélia,4.85,10.02,101
+1032,2026-01-17,Trigo,Atacarejo,Thalissa Amélia,3.82,10.02,74
+1033,2025-01-18,Carne Bovina,Atacarejo,Thalissa Amélia,33.97,10.02,103
+1034,2025-01-18,Uva,Super Mega,Bruno Táles,2.42,10.02,79
+1035,2026-01-18,Laranja,Atacarejo,Thalissa Amélia,3.13,10.02,101
+1036,2024-01-19,Farinha De Milho,Rede Hiper,Samuel Neto,11.18,11.95,39
+1037,2026-01-18,Soja,Rede Hiper,Samuel Neto,5.18,11.95,76
+1038,2025-01-20,Trigo,Super Extra,Manoel  Bezerra ,4.38,10.02,112
+1039,2026-01-19,Frango,Rede Hiper,Samuel Neto,14.38,11.95,75
+1040,2024-01-21,Carne Bovina,Tem Tudo,Fábio Aragão,10.01,8.35,17
+1041,2025-01-22,Carne Bovina,Rede BIG,Fernanda Couto,22.45,10.02,112
+1042,2026-01-21,Farinha De Milho,Super Mega,Bruno Táles,5.74,10.02,64
+1043,2025-01-23,Trigo,Rede BIG,Fernanda Couto,8.54,10.02,10
+1044,2026-01-22,Uva,Super Extra,Manoel  Bezerra ,5.23,10.02,36
+1045,2026-01-23,Laranja,Rede Good,Fernanda Souza,3.17,10.02,114
+1046,2025-01-24,Maça,Tem Tudo,Fábio Aragão,5.34,8.35,113
+1047,2025-01-24,Trigo,Hiper Plus,Márcio Mendes,10.02,11.95,42
+1048,2024-01-24,Carne Bovina,Rede Good,Fernanda Souza,27.42,10.02,38
+1049,2025-01-25,Carne Bovina,Rede Good,Fernanda Souza,3.95,10.02,79
+1050,2026-01-24,Uva,Rede Good,Fernanda Souza,5.12,10.02,47
+1051,2025-01-25,Uva,Atacarejo,Thalissa Amélia,2.68,10.02,72
+1052,2025-01-27,Maça,Tem Tudo,Fábio Aragão,8.29,8.35,68
+1053,2026-01-28,Trigo,Tem Tudo,Fábio Aragão,10.57,8.35,75
+1054,2025-01-30,Laranja,Rede Good,Fernanda Souza,12.71,10.02,12
+1055,2025-01-31,Carne Bovina,Tem Tudo,Fábio Aragão,5.42,8.35,74
+1056,2024-02-01,Trigo,Atacarejo,Thalissa Amélia,5.31,10.02,71
+1057,2026-01-31,Farinha De Milho,Rede BIG,Fernanda Couto,9.14,10.02,65
+1058,2025-02-01,Peixe,Atacarejo,Thalissa Amélia,2.84,10.02,15
+1059,2025-02-02,Frango,Tem Tudo,Fábio Aragão,1.93,8.35,40
+1060,2026-02-01,Uva,Hiper Loja,Sara Marques,7.84,10.02,24
+1061,2025-02-02,Soja,Super Mega,Bruno Táles,19.97,10.02,80
+1062,2025-02-03,Carne Bovina,Hiper Plus,Márcio Mendes,3.41,11.95,35
+1063,2026-02-03,Soja,Rede BIG,Fernanda Couto,7.2,10.02,18
+1064,2024-02-05,Farinha De Milho,Atacarejo,Thalissa Amélia,12.92,10.02,27
+1065,2024-02-05,Trigo,Hiper Loja,Sara Marques,8.39,10.02,22
+1066,2025-02-06,Farinha De Milho,Atacarejo,Thalissa Amélia,2.7,10.02,51
+1067,2024-02-06,Maça,Hiper Plus,Márcio Mendes,5.08,11.95,59
+1068,2026-02-06,Trigo,Tem Tudo,Fábio Aragão,2.49,8.35,101
+1069,2026-02-06,Maça,Atacarejo,Thalissa Amélia,13.58,10.02,112
+1070,2025-02-09,Farinha De Milho,Rede Good,Fernanda Souza,6.95,10.02,36
+1071,2025-02-09,Frango,Atacarejo,Thalissa Amélia,13.36,10.02,78
+1072,2025-02-09,Carne Bovina,Atacarejo,Thalissa Amélia,4.61,10.02,67
+1073,2026-02-08,Farinha De Milho,Hiper Plus,Márcio Mendes,2.34,11.95,61
+1074,2026-02-10,Carne Bovina,Rede BIG,Fernanda Couto,8.32,10.02,109
+1075,2026-02-11,Carne Bovina,Atacarejo,Thalissa Amélia,2.3,10.02,113
+1076,2024-02-12,Peixe,Super Extra,Manoel  Bezerra ,6.34,10.02,113
+1077,2026-02-12,Frango,Rede BIG,Fernanda Couto,5.61,10.02,76
+1078,2024-02-15,Maça,Hiper Plus,Márcio Mendes,8.28,11.95,53
+1079,2025-02-16,Farinha De Milho,Rede Hiper,Samuel Neto,3.79,11.95,74
+1080,2024-02-16,Frango,Atacarejo,Thalissa Amélia,7.16,10.02,68
+1081,2025-02-17,Laranja,Super Extra,Manoel  Bezerra ,6.61,10.02,66
+1082,2024-02-19,Peixe,Super Extra,Manoel  Bezerra ,17.38,10.02,31
+1083,2025-02-19,Maça,Hiper Plus,Márcio Mendes,13.46,11.95,80
+1084,2024-02-20,Uva,Super Extra,Manoel  Bezerra ,6.91,10.02,100
+1085,2024-02-21,Trigo,Hiper Plus,Márcio Mendes,4.58,11.95,92
+1086,2026-02-20,Trigo,Hiper Plus,Márcio Mendes,4.93,11.95,90
+1087,2024-02-22,Carne Bovina,Atacarejo,Thalissa Amélia,4.12,10.02,59
+1088,2025-02-24,Carne Bovina,Super Extra,Manoel  Bezerra ,2.97,10.02,80
+1089,2025-02-25,Frango,Rede BIG,Fernanda Couto,35.5,10.02,16
+1090,2025-02-26,Uva,Super Mega,Bruno Táles,3.59,10.02,59
+1091,2025-02-26,Trigo,Hiper Plus,Márcio Mendes,10.64,11.95,89
+1092,2026-02-26,Trigo,Atacarejo,Thalissa Amélia,3.24,10.02,115
+1093,2026-02-27,Soja,Rede BIG,Fernanda Couto,5.33,10.02,81
+1094,2026-02-27,Soja,Rede Hiper,Samuel Neto,14.41,11.95,17
+1095,2026-02-27,Uva,Rede Hiper,Samuel Neto,8.75,11.95,102
+1096,29/02/2025,Farinha De Milho,Tem Tudo,Fábio Aragão,3.23,8.35,58
+1097,2024-03-02,Peixe,Rede Hiper,Samuel Neto,4.05,11.95,18
+1098,2024-03-04,Maça,Super Mega,Bruno Táles,7.04,10.02,74
+1099,2026-03-03,Peixe,Super Mega,Bruno Táles,6.66,10.02,64
+1100,2025-03-04,Carne Bovina,Super Mega,Bruno Táles,7.75,10.02,55
+1101,2024-03-05,Maça,Super Mega,Bruno Táles,11.72,10.02,16
+1102,2025-03-04,Trigo,Hiper Plus,Márcio Mendes,5.77,11.95,39
+1103,2026-03-05,Maça,Tem Tudo,Fábio Aragão,11.45,8.35,35
+1104,2026-03-06,Frango,Rede Good,Fernanda Souza,13.03,10.02,36
+1105,2026-03-07,Uva,Atacarejo,Thalissa Amélia,6.27,10.02,60
+1106,2024-03-08,Soja,Rede BIG,Fernanda Couto,9.83,10.02,27
+1107,2025-03-07,Uva,Rede Good,Fernanda Souza,6.7,10.02,78
+1108,2025-03-08,Frango,Super Extra,Manoel  Bezerra ,21.06,10.02,101
+1109,2026-03-09,Soja,Rede Good,Fernanda Souza,9.44,10.02,10
+1110,2026-03-09,Uva,Rede Hiper,Samuel Neto,11.23,11.95,41
+1111,2025-03-10,Maça,Hiper Loja,Sara Marques,7.11,10.02,112
+1112,2024-03-11,Maça,Super Extra,Manoel  Bezerra ,8.26,10.02,71
+1113,2025-03-10,Frango,Rede Good,Fernanda Souza,4.03,10.02,71
+1114,2026-03-11,Trigo,Super Mega,Bruno Táles,6.91,10.02,11
+1115,2024-03-13,Trigo,Hiper Plus,Márcio Mendes,15.54,11.95,89
+1116,2025-03-14,Maça,Tem Tudo,Fábio Aragão,4.89,8.35,35
+1117,2025-03-14,Carne Bovina,Rede Good,Fernanda Souza,2.46,10.02,63
+1118,2024-03-15,Soja,Super Mega,Bruno Táles,12.34,10.02,36
+1119,2025-03-15,Trigo,Hiper Loja,Sara Marques,3.68,10.02,43
+1120,2024-03-17,Farinha De Milho,Tem Tudo,Fábio Aragão,10.14,8.35,110
+1121,2026-03-16,Frango,Atacarejo,Thalissa Amélia,15.68,10.02,55
+1122,2026-03-17,Soja,Rede BIG,Fernanda Couto,23.56,10.02,94
+1123,2024-03-20,Soja,Hiper Plus,Márcio Mendes,6.1,11.95,38
+1124,2025-03-20,Maça,Hiper Plus,Márcio Mendes,4.91,11.95,75
+1125,2025-03-21,Trigo,Rede Hiper,Samuel Neto,23.53,11.95,25
+1126,2025-03-22,Uva,Rede Hiper,Samuel Neto,4.3,11.95,31
+1127,2024-03-23,Maça,Atacarejo,Thalissa Amélia,8.48,10.02,68
+1128,2024-03-23,Maça,Hiper Plus,Márcio Mendes,5.54,11.95,12
+1129,2024-03-23,Frango,Hiper Loja,Sara Marques,2.33,10.02,115
+1130,2026-03-23,Trigo,Super Mega,Bruno Táles,4.99,10.02,77
+1131,2024-03-25,Uva,Rede BIG,Fernanda Couto,3.15,10.02,75
+1132,2026-03-25,Uva,Atacarejo,Thalissa Amélia,2.38,10.02,110
+1133,2025-03-26,Frango,Tem Tudo,Fábio Aragão,14.68,8.35,59
+1134,2025-03-27,Laranja,Tem Tudo,Fábio Aragão,3.9,8.35,39
+1135,2024-03-28,Laranja,Super Mega,Bruno Táles,11.68,10.02,96
+1136,2025-03-27,Laranja,Hiper Plus,Márcio Mendes,6.16,11.95,95
+1137,2024-03-28,Soja,Hiper Plus,Márcio Mendes,4.39,11.95,47
+1138,2024-03-30,Uva,Hiper Loja,Sara Marques,3.39,10.02,102
+1139,2025-03-31,Trigo,Super Mega,Bruno Táles,24.93,10.02,51
+1140,2025-03-31,Frango,Rede Hiper,Samuel Neto,16.37,11.95,112
+1141,2026-03-31,Maça,Rede BIG,Fernanda Couto,4.42,10.02,30
+1142,2025-04-01,Uva,Super Mega,Bruno Táles,0.91,10.02,56
+1143,2024-04-02,Soja,Tem Tudo,Fábio Aragão,10.94,8.35,17
+1144,2026-04-01,Soja,Super Mega,Bruno Táles,25.89,10.02,68
+1145,2026-04-02,Carne Bovina,Hiper Loja,Sara Marques,7.21,10.02,63
+1146,2024-04-04,Soja,Hiper Loja,Sara Marques,9.35,10.02,87
+1147,2024-04-05,Carne Bovina,Hiper Loja,Sara Marques,4.21,10.02,65
+1148,2024-04-06,Frango,Super Extra,Manoel  Bezerra ,2.24,10.02,47
+1149,2024-04-06,Frango,Super Extra,Manoel  Bezerra ,1.83,10.02,14
+1150,2025-04-06,Soja,Tem Tudo,Fábio Aragão,9.09,8.35,113
+1151,2024-04-07,Frango,Atacarejo,Thalissa Amélia,13.67,10.02,113
+1152,2025-04-06,Maça,Super Mega,Bruno Táles,12.3,10.02,90
+1153,2024-04-07,Carne Bovina,Hiper Plus,Márcio Mendes,15.18,11.95,107
+1154,2026-04-06,Farinha De Milho,Tem Tudo,Fábio Aragão,7.96,8.35,23
+1155,2025-04-07,Peixe,Tem Tudo,Fábio Aragão,19.23,8.35,10
+1156,2026-04-07,Frango,Hiper Plus,Márcio Mendes,6.05,11.95,69
+1157,2024-04-09,Soja,Tem Tudo,Fábio Aragão,10.6,8.35,88
+1158,2026-04-09,Soja,Rede Good,Fernanda Souza,5.47,10.02,19
+1159,2026-04-09,Frango,Atacarejo,Thalissa Amélia,2.97,10.02,107
+1160,2024-04-11,Farinha De Milho,Super Extra,Manoel  Bezerra ,2.87,10.02,89
+1161,2025-04-10,Peixe,Tem Tudo,Fábio Aragão,9.74,8.35,61
+1162,2026-04-10,Laranja,Rede Hiper,Samuel Neto,11.28,11.95,109
+1163,2024-04-12,Peixe,Tem Tudo,Fábio Aragão,8.13,8.35,54
+1164,2025-04-12,Peixe,Super Mega,Bruno Táles,3.84,10.02,43
+1165,2026-04-12,Maça,Super Mega,Bruno Táles,9.48,10.02,63
+1166,2026-04-13,Frango,Hiper Loja,Sara Marques,13.58,10.02,88
+1167,2025-04-13,Farinha De Milho,Rede Hiper,Samuel Neto,6.27,11.95,30
+1168,2024-04-14,Trigo,Rede Hiper,Samuel Neto,5.07,11.95,63
+1169,2025-04-14,Uva,Rede Good,Fernanda Souza,6.84,10.02,106
+1170,2025-04-15,Trigo,Rede BIG,Fernanda Couto,4.96,10.02,50
+1171,2026-04-16,Farinha De Milho,Hiper Loja,Sara Marques,13.41,10.02,51
+1172,2026-04-16,Maça,Rede Hiper,Samuel Neto,6.13,11.95,15
+1173,2024-04-17,Carne Bovina,Super Extra,Manoel  Bezerra ,5.11,10.02,24
+1174,2026-04-17,Trigo,Super Mega,Bruno Táles,3.65,10.02,80
+1175,2025-04-17,Soja,Rede Hiper,Samuel Neto,20.59,11.95,61
+1176,2025-04-22,Soja,Atacarejo,Thalissa Amélia,7.65,10.02,104
+1177,2024-04-24,Carne Bovina,Rede Hiper,Samuel Neto,10.66,11.95,88
+1178,2026-04-23,Peixe,Rede Hiper,Samuel Neto,7.22,11.95,57
+1179,2026-04-23,Uva,Tem Tudo,Fábio Aragão,11.48,8.35,63
+1180,2025-04-24,Frango,Hiper Plus,Márcio Mendes,4.37,11.95,89
+1181,2025-04-26,Trigo,Atacarejo,Thalissa Amélia,4.47,10.02,104
+1182,2024-04-29,Frango,Rede Hiper,Samuel Neto,7.13,11.95,105
+1183,2026-04-29,Frango,Hiper Plus,Márcio Mendes,5.12,11.95,100
+1184,2024-04-30,Frango,Rede BIG,Fernanda Couto,12.08,10.02,82
+1185,2026-05-01,Uva,Rede Good,Fernanda Souza,22.1,10.02,110
+1186,2024-05-03,Carne Bovina,Tem Tudo,Fábio Aragão,5.41,8.35,51
+1187,2025-05-05,Soja,Super Extra,Manoel  Bezerra ,9.48,10.02,81
+1188,2026-05-05,Maça,Rede BIG,Fernanda Couto,3.09,10.02,46
+1189,2024-05-06,Uva,Hiper Loja,Sara Marques,10.67,10.02,42
+1190,2026-05-06,Carne Bovina,Hiper Plus,Márcio Mendes,11.19,11.95,50
+1191,2026-05-06,Maça,Super Extra,Manoel  Bezerra ,1.44,10.02,30
+1192,2025-05-07,Laranja,Rede Hiper,Samuel Neto,4.96,11.95,99
+1193,2026-05-08,Laranja,Super Mega,Bruno Táles,8.98,10.02,106
+1194,2025-05-09,Maça,Tem Tudo,Fábio Aragão,9.79,8.35,80
+1195,2025-05-10,Soja,Rede Good,Fernanda Souza,27.93,10.02,55
+1196,2026-05-10,Carne Bovina,Hiper Plus,Márcio Mendes,6.47,11.95,51
+1197,2024-05-13,Carne Bovina,Hiper Loja,Sara Marques,4.51,10.02,22
+1198,2025-05-12,Uva,Hiper Plus,Márcio Mendes,4.84,11.95,104
+1199,2026-05-12,Trigo,Atacarejo,Thalissa Amélia,9.7,10.02,85
+1200,2024-05-14,Frango,Atacarejo,Thalissa Amélia,13.93,10.02,41
+1201,2024-05-15,Farinha De Milho,Hiper Plus,Márcio Mendes,13.54,11.95,46
+1202,2024-05-15,Soja,Atacarejo,Thalissa Amélia,15.76,10.02,71
+1203,2024-05-17,Maça,Rede BIG,Fernanda Couto,14.81,10.02,96
+1204,2025-05-17,Farinha De Milho,Hiper Loja,Sara Marques,2.79,10.02,21
+1205,2026-05-17,Trigo,Hiper Loja,Sara Marques,11.82,10.02,53
+1206,2025-05-18,Trigo,Super Extra,Manoel  Bezerra ,11.1,10.02,46
+1207,2025-05-18,Farinha De Milho,Super Mega,Bruno Táles,13.25,10.02,35
+1208,2026-05-18,Carne Bovina,Rede Good,Fernanda Souza,12.72,10.02,47
+1209,2025-05-19,Laranja,Super Mega,Bruno Táles,4.47,10.02,57
+1210,2024-05-21,Trigo,Hiper Plus,Márcio Mendes,11.71,11.95,14
+1211,2026-05-20,Trigo,Rede Good,Fernanda Souza,6.28,10.02,20
+1212,2024-05-21,Peixe,Hiper Plus,Márcio Mendes,33.94,11.95,20
+1213,2025-05-21,Carne Bovina,Atacarejo,Thalissa Amélia,3.19,10.02,101
+1214,2024-05-23,Carne Bovina,Super Extra,Manoel  Bezerra ,7.88,10.02,41
+1215,2026-05-23,Maça,Super Mega,Bruno Táles,10.84,10.02,46
+1216,2025-05-23,Peixe,Rede BIG,Fernanda Couto,9.67,10.02,26
+1217,2025-05-24,Carne Bovina,Tem Tudo,Fábio Aragão,6.15,8.35,77
+1218,2024-05-27,Trigo,Rede Hiper,Samuel Neto,3.74,11.95,10
+1219,2024-05-28,Maça,Rede Hiper,Samuel Neto,19.92,11.95,37
+1220,2026-05-29,Soja,Super Mega,Bruno Táles,3.6,10.02,104
+1221,2025-05-29,Farinha De Milho,Rede BIG,Fernanda Couto,4.47,10.02,107
+1222,2025-05-31,Carne Bovina,Super Extra,Manoel  Bezerra ,14.53,10.02,75
+1223,2024-06-01,Trigo,Tem Tudo,Fábio Aragão,8.94,8.35,81
+1224,2026-06-01,Carne Bovina,Hiper Plus,Márcio Mendes,15.79,11.95,87
+1225,2025-06-01,Uva,Super Mega,Bruno Táles,1.83,10.02,33
+1226,2024-06-04,Trigo,Hiper Plus,Márcio Mendes,14.08,11.95,60
+1227,2025-06-04,Peixe,Rede Hiper,Samuel Neto,2.65,11.95,17
+1228,2026-06-04,Carne Bovina,Rede Good,Fernanda Souza,34.99,10.02,99
+1229,2026-06-04,Peixe,Rede BIG,Fernanda Couto,3.88,10.02,64
+1230,2026-06-06,Uva,Rede Hiper,Samuel Neto,24.35,11.95,106
+1231,2024-06-07,Soja,Super Extra,Manoel  Bezerra ,12.76,10.02,18
+1232,2026-06-07,Maça,Super Mega,Bruno Táles,7.28,10.02,54
+1233,2024-06-09,Peixe,Atacarejo,Thalissa Amélia,4.72,10.02,105
+1234,2026-06-08,Trigo,Super Extra,Manoel  Bezerra ,7.0,10.02,66
+1235,2024-06-10,Soja,Hiper Plus,Márcio Mendes,12.42,11.95,91
+1236,2025-06-10,Carne Bovina,Super Extra,Manoel  Bezerra ,8.55,10.02,35
+1237,2025-06-10,Carne Bovina,Hiper Loja,Sara Marques,2.71,10.02,18
+1238,2024-06-11,Maça,Super Mega,Bruno Táles,10.54,10.02,51
+1239,2024-06-13,Uva,Tem Tudo,Fábio Aragão,9.42,8.35,45
+1240,2026-06-12,Maça,Tem Tudo,Fábio Aragão,12.63,8.35,77
+1241,2025-06-13,Soja,Tem Tudo,Fábio Aragão,17.8,8.35,13
+1242,2026-06-14,Soja,Super Extra,Manoel  Bezerra ,2.48,10.02,54
+1243,2024-06-15,Trigo,Hiper Loja,Sara Marques,9.89,10.02,79
+1244,2025-06-15,Farinha De Milho,Super Extra,Manoel  Bezerra ,5.6,10.02,43
+1245,2025-06-15,Maça,Rede BIG,Fernanda Couto,4.74,10.02,79
+1246,2026-06-19,Laranja,Rede Hiper,Samuel Neto,19.11,11.95,47
+1247,2024-06-20,Laranja,Atacarejo,Thalissa Amélia,10.05,10.02,112
+1248,2026-06-20,Soja,Hiper Loja,Sara Marques,3.48,10.02,42
+1249,2024-06-21,Peixe,Super Mega,Bruno Táles,5.78,10.02,74
+1250,2026-06-20,Peixe,Tem Tudo,Fábio Aragão,2.14,8.35,67
+1251,2025-06-20,Farinha De Milho,Rede BIG,Fernanda Couto,16.08,10.02,64
+1252,2024-06-22,Carne Bovina,Rede BIG,Fernanda Couto,4.59,10.02,51
+1253,2025-06-23,Peixe,Atacarejo,Thalissa Amélia,23.32,10.02,32
+1254,2025-06-24,Soja,Atacarejo,Thalissa Amélia,21.23,10.02,46
+1255,2025-06-25,Uva,Atacarejo,Thalissa Amélia,10.93,10.02,14
+1256,2026-06-25,Uva,Tem Tudo,Fábio Aragão,25.47,8.35,82
+1257,2026-06-25,Uva,Tem Tudo,Fábio Aragão,11.63,8.35,19
+1258,2026-06-26,Soja,Rede Hiper,Samuel Neto,8.72,11.95,70
+1259,2025-06-26,Frango,Super Extra,Manoel  Bezerra ,19.71,10.02,70
+1260,2025-06-29,Trigo,Rede Good,Fernanda Souza,40.33,10.02,37
+1261,2026-06-29,Soja,Hiper Loja,Sara Marques,7.57,10.02,68
+1262,2025-06-29,Soja,Super Extra,Manoel  Bezerra ,9.22,10.02,105
+1263,2024-06-30,Trigo,Rede Good,Fernanda Souza,2.42,10.02,109
+1264,2026-06-30,Laranja,Super Mega,Bruno Táles,23.94,10.02,36
+1265,2024-07-02,Trigo,Super Extra,Manoel  Bezerra ,7.5,10.02,82
+1266,2024-07-08,Uva,Rede Good,Fernanda Souza,20.2,10.02,66
+1267,2024-07-08,Farinha De Milho,Rede Hiper,Samuel Neto,3.88,11.95,13
+1268,2025-07-09,Carne Bovina,Atacarejo,Thalissa Amélia,9.42,10.02,67
+1269,2024-07-11,Farinha De Milho,Rede Hiper,Samuel Neto,2.3,11.95,108
+1270,2024-07-13,Carne Bovina,Hiper Loja,Sara Marques,4.31,10.02,49
+1271,2026-07-13,Soja,Super Mega,Bruno Táles,4.17,10.02,95
+1272,2026-07-14,Uva,Rede Good,Fernanda Souza,10.94,10.02,26
+1273,2026-07-17,Peixe,Atacarejo,Thalissa Amélia,6.08,10.02,25
+1274,2025-07-19,Frango,Rede BIG,Fernanda Couto,7.87,10.02,58
+1275,2025-07-19,Soja,Super Mega,Bruno Táles,10.09,10.02,16
+1276,2025-07-20,Peixe,Hiper Loja,Sara Marques,4.96,10.02,109
+1277,2025-07-21,Peixe,Rede BIG,Fernanda Couto,1.55,10.02,103
+1278,2025-07-22,Peixe,Rede Hiper,Samuel Neto,8.13,11.95,31
+1279,2024-07-23,Carne Bovina,Rede BIG,Fernanda Couto,9.05,10.02,13
+1280,2024-07-24,Uva,Hiper Loja,Sara Marques,13.94,10.02,57
+1281,2025-07-24,Laranja,Hiper Plus,Márcio Mendes,3.37,11.95,14
+1282,2025-07-24,Laranja,Hiper Loja,Sara Marques,6.22,10.02,75
+1283,2025-07-26,Trigo,Atacarejo,Thalissa Amélia,3.24,10.02,67
+1284,2025-07-26,Uva,Super Mega,Bruno Táles,3.64,10.02,50
+1285,2025-07-26,Laranja,Rede Good,Fernanda Souza,10.8,10.02,16
+1286,2024-07-28,Maça,Rede Good,Fernanda Souza,3.36,10.02,45
+1287,2025-07-27,Trigo,Super Extra,Manoel  Bezerra ,21.46,10.02,102
+1288,2026-07-27,Farinha De Milho,Atacarejo,Thalissa Amélia,4.08,10.02,62
+1289,2025-07-28,Maça,Super Mega,Bruno Táles,8.06,10.02,42
+1290,2025-07-28,Peixe,Rede Good,Fernanda Souza,11.49,10.02,20
+1291,2025-07-29,Uva,Rede BIG,Fernanda Couto,12.31,10.02,21
+1292,2024-07-30,Peixe,Rede Good,Fernanda Souza,12.45,10.02,89
+1293,2024-08-01,Maça,Atacarejo,Thalissa Amélia,13.72,10.02,52
+1294,2024-08-01,Maça,Rede Good,Fernanda Souza,8.83,10.02,22
+1295,2025-08-01,Soja,Rede Good,Fernanda Souza,1.86,10.02,100
+1296,2025-08-01,Soja,Atacarejo,Thalissa Amélia,16.94,10.02,76
+1297,2025-08-02,Carne Bovina,Atacarejo,Thalissa Amélia,14.01,10.02,111
+1298,2025-08-02,Trigo,Hiper Plus,Márcio Mendes,11.54,11.95,20
+1299,2024-08-05,Maça,Rede Hiper,Samuel Neto,2.34,11.95,52
+1300,2025-08-05,Peixe,Hiper Loja,Sara Marques,7.3,10.02,57
+1301,2025-08-07,Frango,Hiper Plus,Márcio Mendes,4.28,11.95,19
+1302,2024-08-08,Maça,Rede Hiper,Samuel Neto,5.69,11.95,18
+1303,2024-08-09,Laranja,Super Extra,Manoel  Bezerra ,13.94,10.02,112
+1304,2024-08-09,Uva,Rede Hiper,Samuel Neto,1.51,11.95,96
+1305,2026-08-09,Laranja,Super Mega,Bruno Táles,6.66,10.02,45
+1306,2025-08-10,Soja,Super Mega,Bruno Táles,10.11,10.02,47
+1307,2026-08-11,Peixe,Hiper Loja,Sara Marques,11.54,10.02,61
+1308,2026-08-12,Carne Bovina,Rede Good,Fernanda Souza,10.4,10.02,38
+1309,2026-08-12,Soja,Rede Good,Fernanda Souza,12.38,10.02,81
+1310,2025-08-13,Carne Bovina,Super Mega,Bruno Táles,3.11,10.02,57
+1311,2025-08-13,Soja,Super Mega,Bruno Táles,8.9,10.02,111
+1312,2026-08-15,Uva,Rede Good,Fernanda Souza,6.81,10.02,63
+1313,2024-08-17,Farinha De Milho,Hiper Loja,Sara Marques,19.08,10.02,50
+1314,2026-08-18,Soja,Rede Good,Fernanda Souza,21.34,10.02,105
+1315,2024-08-20,Frango,Atacarejo,Thalissa Amélia,6.8,10.02,57
+1316,2026-08-19,Trigo,Tem Tudo,Fábio Aragão,2.32,8.35,86
+1317,2024-08-20,Laranja,Hiper Loja,Sara Marques,21.25,10.02,71
+1318,2025-08-19,Farinha De Milho,Atacarejo,Thalissa Amélia,3.51,10.02,20
+1319,2025-08-19,Maça,Super Extra,Manoel  Bezerra ,7.34,10.02,16
+1320,2026-08-19,Peixe,Tem Tudo,Fábio Aragão,2.87,8.35,30
+1321,2025-08-20,Soja,Hiper Loja,Sara Marques,8.87,10.02,87
+1322,2024-08-21,Laranja,Hiper Plus,Márcio Mendes,6.58,11.95,65
+1323,2024-08-22,Maça,Rede Good,Fernanda Souza,9.48,10.02,62
+1324,2025-08-22,Maça,Rede Good,Fernanda Souza,3.95,10.02,84
+1325,2024-08-23,Frango,Super Mega,Bruno Táles,2.09,10.02,44
+1326,2026-08-23,Uva,Super Extra,Manoel  Bezerra ,3.11,10.02,18
+1327,2025-08-25,Soja,Super Mega,Bruno Táles,20.03,10.02,59
+1328,2025-08-25,Maça,Super Extra,Manoel  Bezerra ,5.21,10.02,112
+1329,2026-08-25,Uva,Super Extra,Manoel  Bezerra ,4.1,10.02,10
+1330,2025-08-26,Farinha De Milho,Rede Good,Fernanda Souza,30.12,10.02,14
+1331,2026-08-26,Farinha De Milho,Hiper Plus,Márcio Mendes,20.23,11.95,58
+1332,2025-08-27,Uva,Super Mega,Bruno Táles,3.26,10.02,53
+1333,2025-08-29,Frango,Hiper Loja,Sara Marques,3.39,10.02,86
+1334,2026-08-29,Maça,Hiper Loja,Sara Marques,2.22,10.02,109
+1335,2025-08-30,Farinha De Milho,Atacarejo,Thalissa Amélia,11.52,10.02,24
+1336,2025-08-31,Maça,Hiper Plus,Márcio Mendes,5.21,11.95,29
+1337,2025-08-31,Uva,Atacarejo,Thalissa Amélia,5.49,10.02,66
+1338,2024-09-01,Peixe,Tem Tudo,Fábio Aragão,2.25,8.35,57
+1339,2026-08-31,Frango,Hiper Plus,Márcio Mendes,13.33,11.95,16
+1340,2025-09-01,Peixe,Tem Tudo,Fábio Aragão,11.21,8.35,58
+1341,2024-09-02,Trigo,Super Extra,Manoel  Bezerra ,10.27,10.02,82
+1342,2026-09-02,Peixe,Rede Good,Fernanda Souza,9.82,10.02,66
+1343,2025-09-03,Farinha De Milho,Rede Good,Fernanda Souza,5.19,10.02,31
+1344,2024-09-06,Maça,Hiper Loja,Sara Marques,24.98,10.02,70
+1345,2024-09-07,Laranja,Super Extra,Manoel  Bezerra ,3.51,10.02,52
+1346,2024-09-11,Uva,Tem Tudo,Fábio Aragão,9.31,8.35,45
+1347,2026-09-10,Peixe,Atacarejo,Thalissa Amélia,2.22,10.02,96
+1348,2026-09-10,Frango,Rede Hiper,Samuel Neto,4.51,11.95,95
+1349,2025-09-11,Trigo,Tem Tudo,Fábio Aragão,7.0,8.35,65
+1350,2026-09-11,Frango,Rede Good,Fernanda Souza,9.88,10.02,38
+1351,2025-09-12,Maça,Hiper Loja,Sara Marques,6.64,10.02,39
+1352,2025-09-12,Peixe,Super Mega,Bruno Táles,6.43,10.02,67
+1353,2024-09-13,Laranja,Rede BIG,Fernanda Couto,7.63,10.02,50
+1354,2026-09-13,Laranja,Tem Tudo,Fábio Aragão,2.16,8.35,22
+1355,2024-09-14,Laranja,Rede Hiper,Samuel Neto,10.81,11.95,52
+1356,2025-09-13,Laranja,Tem Tudo,Fábio Aragão,3.04,8.35,76
+1357,2024-09-15,Peixe,Atacarejo,Thalissa Amélia,18.3,10.02,58
+1358,2024-09-15,Trigo,Rede BIG,Fernanda Couto,9.42,10.02,17
+1359,2024-09-17,Maça,Rede Good,Fernanda Souza,4.81,10.02,88
+1360,2025-09-19,Farinha De Milho,Super Extra,Manoel  Bezerra ,15.48,10.02,43
+1361,2025-09-21,Carne Bovina,Atacarejo,Thalissa Amélia,10.56,10.02,40
+1362,2026-09-22,Trigo,Super Mega,Bruno Táles,2.82,10.02,75
+1363,2025-09-23,Trigo,Hiper Loja,Sara Marques,2.94,10.02,19
+1364,2025-09-23,Carne Bovina,Tem Tudo,Fábio Aragão,4.48,8.35,88
+1365,2024-09-25,Soja,Atacarejo,Thalissa Amélia,12.88,10.02,58
+1366,2024-09-25,Trigo,Rede BIG,Fernanda Couto,3.91,10.02,42
+1367,2025-09-25,Trigo,Rede BIG,Fernanda Couto,5.78,10.02,43
+1368,2024-09-30,Farinha De Milho,Rede Hiper,Samuel Neto,5.1,11.95,10
+1369,2026-09-30,Soja,Rede BIG,Fernanda Couto,4.88,10.02,41
+1370,2026-09-30,Laranja,Atacarejo,Thalissa Amélia,2.39,10.02,14
+1371,2024-10-02,Uva,Rede Hiper,Samuel Neto,5.57,11.95,19
+1372,2025-10-01,Laranja,Hiper Plus,Márcio Mendes,15.81,11.95,51
+1373,2026-10-03,Laranja,Rede Hiper,Samuel Neto,7.25,11.95,35
+1374,2025-10-03,Uva,Tem Tudo,Fábio Aragão,8.92,8.35,40
+1375,2025-10-06,Peixe,Hiper Loja,Sara Marques,2.07,10.02,61
+1376,2024-10-08,Soja,Rede Good,Fernanda Souza,5.16,10.02,53
+1377,2024-10-08,Soja,Tem Tudo,Fábio Aragão,36.92,8.35,92
+1378,2025-10-07,Farinha De Milho,Rede Good,Fernanda Souza,2.59,10.02,109
+1379,2024-10-08,Soja,Tem Tudo,Fábio Aragão,26.1,8.35,25
+1380,2024-10-08,Carne Bovina,Rede Hiper,Samuel Neto,16.35,11.95,54
+1381,2026-10-07,Carne Bovina,Hiper Loja,Sara Marques,3.39,10.02,100
+1382,2026-10-08,Soja,Super Extra,Manoel  Bezerra ,9.15,10.02,20
+1383,2025-10-08,Soja,Hiper Loja,Sara Marques,11.28,10.02,13
+1384,2025-10-09,Uva,Hiper Loja,Sara Marques,14.38,10.02,58
+1385,2024-10-10,Laranja,Rede Good,Fernanda Souza,3.88,10.02,49
+1386,2024-10-11,Peixe,Tem Tudo,Fábio Aragão,10.78,8.35,46
+1387,2024-10-11,Maça,Tem Tudo,Fábio Aragão,13.35,8.35,62
+1388,2025-10-11,Peixe,Rede Good,Fernanda Souza,8.17,10.02,10
+1389,2025-10-12,Maça,Super Mega,Bruno Táles,12.54,10.02,16
+1390,2024-10-13,Farinha De Milho,Super Extra,Manoel  Bezerra ,3.88,10.02,73
+1391,2025-10-12,Uva,Super Mega,Bruno Táles,15.63,10.02,21
+1392,2026-10-14,Trigo,Rede Hiper,Samuel Neto,6.07,11.95,90
+1393,2026-10-16,Carne Bovina,Rede Good,Fernanda Souza,3.42,10.02,52
+1394,2024-10-17,Soja,Hiper Plus,Márcio Mendes,8.87,11.95,13
+1395,2026-10-17,Frango,Super Mega,Bruno Táles,7.64,10.02,109
+1396,2026-10-17,Uva,Hiper Plus,Márcio Mendes,9.63,11.95,44
+1397,2024-10-19,Frango,Rede BIG,Fernanda Couto,4.66,10.02,29
+1398,2026-10-19,Carne Bovina,Rede BIG,Fernanda Couto,13.46,10.02,66
+1399,2024-10-20,Peixe,Rede Good,Fernanda Souza,10.92,10.02,37
+1400,2024-10-21,Uva,Rede Good,Fernanda Souza,4.2,10.02,59
+1401,2025-10-21,Peixe,Rede BIG,Fernanda Couto,4.67,10.02,42
+1402,2025-10-21,Uva,Hiper Plus,Márcio Mendes,6.66,11.95,57
+1403,2024-10-23,Farinha De Milho,Hiper Loja,Sara Marques,14.61,10.02,108
+1404,2024-10-24,Carne Bovina,Super Mega,Bruno Táles,3.69,10.02,10
+1405,2024-10-25,Frango,Atacarejo,Thalissa Amélia,9.6,10.02,103
+1406,2025-10-26,Maça,Hiper Loja,Sara Marques,5.43,10.02,67
+1407,2024-10-29,Peixe,Super Extra,Manoel  Bezerra ,6.48,10.02,110
+1408,2024-10-29,Soja,Tem Tudo,Fábio Aragão,1.88,8.35,63
+1409,2026-10-28,Farinha De Milho,Super Extra,Manoel  Bezerra ,3.9,10.02,23
+1410,2025-10-31,Laranja,Super Extra,Manoel  Bezerra ,2.61,10.02,82
+1411,2024-11-02,Peixe,Super Extra,Manoel  Bezerra ,13.07,10.02,13
+1412,2025-11-02,Carne Bovina,Rede Hiper,Samuel Neto,4.11,11.95,65
+1413,2026-11-03,Uva,Hiper Plus,Márcio Mendes,13.04,11.95,62
+1414,2025-11-03,Trigo,Rede BIG,Fernanda Couto,2.56,10.02,43
+1415,2025-11-04,Farinha De Milho,Super Mega,Bruno Táles,14.7,10.02,111
+1416,2025-11-04,Carne Bovina,Hiper Plus,Márcio Mendes,9.48,11.95,27
+1417,2026-11-05,Laranja,Rede BIG,Fernanda Couto,8.64,10.02,51
+1418,2025-11-06,Frango,Hiper Plus,Márcio Mendes,4.64,11.95,103
+1419,2026-11-06,Frango,Super Mega,Bruno Táles,15.85,10.02,24
+1420,2024-11-09,Uva,Rede Hiper,Samuel Neto,4.57,11.95,63
+1421,2025-11-09,Carne Bovina,Tem Tudo,Fábio Aragão,2.56,8.35,40
+1422,2026-11-09,Carne Bovina,Hiper Plus,Márcio Mendes,16.67,11.95,62
+1423,2026-11-11,Peixe,Super Extra,Manoel  Bezerra ,12.86,10.02,114
+1424,2026-11-11,Soja,Rede Hiper,Samuel Neto,12.17,11.95,12
+1425,2025-11-11,Trigo,Rede Good,Fernanda Souza,10.1,10.02,55
+1426,2025-11-12,Trigo,Rede Good,Fernanda Souza,10.31,10.02,101
+1427,2026-11-12,Laranja,Hiper Plus,Márcio Mendes,6.22,11.95,100
+1428,2024-11-14,Carne Bovina,Rede BIG,Fernanda Couto,2.24,10.02,82
+1429,2026-11-15,Laranja,Atacarejo,Thalissa Amélia,28.09,10.02,63
+1430,2026-11-15,Carne Bovina,Hiper Loja,Sara Marques,9.17,10.02,53
+1431,2024-11-17,Soja,Hiper Loja,Sara Marques,4.53,10.02,66
+1432,2025-11-16,Trigo,Super Mega,Bruno Táles,11.73,10.02,47
+1433,2025-11-17,Carne Bovina,Rede Good,Fernanda Souza,9.26,10.02,15
+1434,2024-11-18,Uva,Super Mega,Bruno Táles,8.4,10.02,111
+1435,2024-11-19,Peixe,Super Extra,Manoel  Bezerra ,7.91,10.02,27
+1436,2025-11-18,Peixe,Rede BIG,Fernanda Couto,4.42,10.02,94
+1437,2024-11-20,Peixe,Tem Tudo,Fábio Aragão,4.76,8.35,37
+1438,2025-11-19,Frango,Hiper Plus,Márcio Mendes,18.64,11.95,41
+1439,2025-11-19,Maça,Rede Good,Fernanda Souza,6.35,10.02,96
+1440,2026-11-19,Frango,Super Extra,Manoel  Bezerra ,2.92,10.02,15
+1441,2026-11-19,Trigo,Atacarejo,Thalissa Amélia,12.38,10.02,43
+1442,2025-11-20,Carne Bovina,Atacarejo,Thalissa Amélia,6.9,10.02,62
+1443,2024-11-22,Maça,Rede Hiper,Samuel Neto,6.58,11.95,85
+1444,2024-11-24,Carne Bovina,Hiper Loja,Sara Marques,11.76,10.02,22
+1445,2026-11-23,Uva,Super Mega,Bruno Táles,18.82,10.02,111
+1446,2024-11-24,Maça,Atacarejo,Thalissa Amélia,12.92,10.02,12
+1447,2024-11-24,Peixe,Super Mega,Bruno Táles,9.1,10.02,70
+1448,2024-11-24,Soja,Rede BIG,Fernanda Couto,11.6,10.02,33
+1449,2025-11-24,Uva,Super Mega,Bruno Táles,6.59,10.02,65
+1450,2024-11-27,Farinha De Milho,Tem Tudo,Fábio Aragão,3.94,8.35,45
+1451,2024-11-28,Laranja,Rede Good,Fernanda Souza,7.13,10.02,66
+1452,2025-11-28,Peixe,Super Mega,Bruno Táles,6.85,10.02,19
+1453,2024-12-03,Carne Bovina,Atacarejo,Thalissa Amélia,4.34,10.02,79
+1454,2025-12-04,Frango,Rede BIG,Fernanda Couto,13.23,10.02,103
+1455,2024-12-05,Soja,Super Mega,Bruno Táles,2.38,10.02,81
+1456,2024-12-05,Carne Bovina,Hiper Plus,Márcio Mendes,2.59,11.95,88
+1457,2025-12-05,Soja,Super Mega,Bruno Táles,18.43,10.02,17
+1458,2024-12-06,Laranja,Hiper Loja,Sara Marques,10.21,10.02,96
+1459,2025-12-06,Laranja,Hiper Plus,Márcio Mendes,5.17,11.95,80
+1460,2025-12-07,Trigo,Hiper Loja,Sara Marques,12.58,10.02,103
+1461,2024-12-09,Trigo,Rede Good,Fernanda Souza,13.44,10.02,29
+1462,2026-12-09,Farinha De Milho,Rede BIG,Fernanda Couto,2.15,10.02,56
+1463,2025-12-09,Peixe,Rede Hiper,Samuel Neto,32.85,11.95,31
+1464,2024-12-13,Soja,Super Mega,Bruno Táles,15.67,10.02,97
+1465,2024-12-15,Carne Bovina,Rede BIG,Fernanda Couto,18.13,10.02,71
+1466,2025-12-15,Carne Bovina,Hiper Loja,Sara Marques,29.21,10.02,68
+1467,2024-12-17,Frango,Hiper Plus,Márcio Mendes,21.55,11.95,31
+1468,2024-12-18,Maça,Super Extra,Manoel  Bezerra ,5.92,10.02,13
+1469,2026-12-17,Laranja,Tem Tudo,Fábio Aragão,6.95,8.35,47
+1470,2025-12-17,Frango,Super Mega,Bruno Táles,3.79,10.02,43
+1471,2024-12-18,Peixe,Atacarejo,Thalissa Amélia,34.06,10.02,66
+1472,2025-12-19,Soja,Super Extra,Manoel  Bezerra ,2.86,10.02,79
+1473,2026-12-20,Peixe,Tem Tudo,Fábio Aragão,4.59,8.35,87
+1474,2026-12-20,Peixe,Hiper Loja,Sara Marques,25.21,10.02,30
+1475,2025-12-21,Uva,Rede Good,Fernanda Souza,14.35,10.02,80
+1476,2026-12-21,Soja,Super Mega,Bruno Táles,9.59,10.02,86
+1477,2026-12-22,Frango,Rede Hiper,Samuel Neto,3.63,11.95,18
+1478,2025-12-23,Carne Bovina,Super Extra,Manoel  Bezerra ,6.18,10.02,106
+1479,2024-12-24,Farinha De Milho,Rede BIG,Fernanda Couto,6.08,10.02,70
+1480,2024-12-24,Farinha De Milho,Super Extra,Manoel  Bezerra ,4.44,10.02,103
+1481,2025-12-24,Uva,Atacarejo,Thalissa Amélia,33.31,10.02,31
+1482,2024-12-25,Carne Bovina,Rede Good,Fernanda Souza,1.81,10.02,115
+1483,2024-12-26,Soja,Super Extra,Manoel  Bezerra ,16.12,10.02,71
+1484,2026-12-27,Laranja,Super Extra,Manoel  Bezerra ,16.52,10.02,72
+1485,2024-12-28,Soja,Hiper Loja,Sara Marques,5.5,10.02,16
+1486,2025-12-27,Soja,Super Mega,Bruno Táles,2.53,10.02,80
+1487,2024-12-30,Farinha De Milho,Super Mega,Bruno Táles,9.46,10.02,74
+1488,2024-12-31,Soja,Rede BIG,Fernanda Couto,6.39,10.02,49
+1489,2024-12-31,Laranja,Hiper Loja,Sara Marques,3.63,10.02,31
+1490,2025-12-31,Carne Bovina,Super Mega,Bruno Táles,2.93,2.14,63
+1491,2024-01-01,Maça,Rede Good,Fernanda Souza,1.01,2.04,82
+1492,2024-01-01,Maça,Super Extra,Manoel  Bezerra ,0.92,1.6,90
+1493,2025-12-31,Uva,Rede Good,Fernanda Souza,4.11,1.52,37
+1494,2025-01-02,Frango,Hiper Loja,Sara Marques,0.39,2.11,75
+1495,2024-01-02,Maça,Super Extra,Manoel  Bezerra ,1.13,2.04,23
+1496,2026-01-01,Maça,Hiper Plus,Márcio Mendes,1.87,2.62,56
+1497,2025-01-03,Frango,Hiper Loja,Sara Marques,2.02,1.63,47
+1498,2025-01-03,Trigo,Hiper Loja,Sara Marques,0.94,2.0,39
+1499,2026-01-02,Carne Bovina,Super Extra,Manoel  Bezerra ,0.52,1.68,44
+1500,2024-01-03,Carne Bovina,Atacarejo,Thalissa Amélia,1.69,1.78,62
+1501,2024-01-03,Maça,Rede BIG,Fernanda Couto,2.76,1.88,38
+1502,2024-01-03,Uva,Atacarejo,Thalissa Amélia,0.58,1.64,12
+1503,2024-01-04,Peixe,Rede Hiper,Samuel Neto,1.1,2.16,58
+1504,2024-01-04,Soja,Atacarejo,Thalissa Amélia,0.75,1.68,86
+1505,2026-01-04,Farinha De Milho,Super Extra,Manoel  Bezerra ,0.52,2.04,26
+1506,2026-01-04,Carne Bovina,Super Extra,Manoel  Bezerra ,1.91,2.09,96
+1507,2024-01-05,Laranja,Hiper Plus,Márcio Mendes,2.52,2.72,48
+1508,2024-01-07,Farinha De Milho,Tem Tudo,Fábio Aragão,1.08,1.45,101
+1509,2024-01-07,Frango,Rede Good,Fernanda Souza,0.8,1.57,82
+1510,2026-01-06,Laranja,Rede Good,Fernanda Souza,1.71,1.76,15
+1511,2025-01-08,Trigo,Super Extra,Manoel  Bezerra ,1.41,1.34,54
+1512,2025-01-08,Carne Bovina,Rede BIG,Fernanda Couto,0.68,1.72,103
+1513,2025-01-10,Laranja,Super Extra,Manoel  Bezerra ,1.35,1.82,16
+1514,2025-01-10,Carne Bovina,Rede Good,Fernanda Souza,0.53,1.87,54
+1515,2024-01-10,Soja,Rede BIG,Fernanda Couto,0.3,1.79,35
+1516,2024-01-10,Laranja,Rede Hiper,Samuel Neto,0.55,2.22,30
+1517,2024-01-11,Uva,Tem Tudo,Fábio Aragão,2.31,1.47,95
+1518,2025-01-11,Trigo,Tem Tudo,Fábio Aragão,2.15,1.22,91
+1519,2025-01-12,Maça,Rede Good,Fernanda Souza,0.49,1.94,65
+1520,2024-01-12,Farinha De Milho,Hiper Plus,Márcio Mendes,0.8,2.7,65
+1521,2025-01-12,Uva,Hiper Plus,Márcio Mendes,0.28,1.9,56
+1522,2025-01-12,Carne Bovina,Hiper Plus,Márcio Mendes,1.89,2.38,53
+1523,2024-01-13,Peixe,Super Extra,Manoel  Bezerra ,2.03,2.02,18
+1524,2026-01-12,Uva,Atacarejo,Thalissa Amélia,3.38,1.24,91
+1525,2024-01-13,Uva,Rede Good,Fernanda Souza,0.78,1.72,28
+1526,2025-01-15,Trigo,Atacarejo,Thalissa Amélia,1.48,1.91,108
+1527,2024-01-15,Trigo,Super Extra,Manoel  Bezerra ,1.2,1.87,98
+1528,2024-01-15,Maça,Hiper Loja,Sara Marques,0.38,1.62,55
+1529,2026-01-15,Uva,Hiper Plus,Márcio Mendes,3.09,1.97,29
+1530,2026-01-15,Soja,Rede Hiper,Samuel Neto,2.51,2.62,22
+1531,2024-01-16,Uva,Hiper Plus,Márcio Mendes,1.84,2.14,23
+1532,2025-01-16,Trigo,Atacarejo,Thalissa Amélia,0.84,1.37,74
+1533,2025-01-16,Soja,Rede Hiper,Samuel Neto,1.14,2.33,81
+1534,2026-01-15,Laranja,Atacarejo,Thalissa Amélia,3.45,1.33,88
+1535,2026-01-16,Peixe,Super Mega,Bruno Táles,0.82,1.78,76
+1536,2025-01-17,Soja,Hiper Loja,Sara Marques,1.87,1.56,68
+1537,2025-01-17,Uva,Rede BIG,Fernanda Couto,0.64,1.4,61
+1538,2025-01-19,Soja,Rede Hiper,Samuel Neto,1.67,1.49,72
+1539,2025-01-20,Carne Bovina,Super Mega,Bruno Táles,3.51,1.58,64
+1540,2026-01-20,Soja,Super Mega,Bruno Táles,1.36,1.33,98
+1541,2024-01-22,Soja,Hiper Plus,Márcio Mendes,0.9,1.45,26
+1542,2024-01-22,Maça,Hiper Plus,Márcio Mendes,1.09,2.81,43
+1543,2026-01-22,Carne Bovina,Tem Tudo,Fábio Aragão,0.83,1.43,13
+1544,2024-01-25,Maça,Atacarejo,Thalissa Amélia,0.38,1.18,80
+1545,2024-01-25,Soja,Rede Good,Fernanda Souza,0.67,1.81,99
+1546,2025-01-25,Peixe,Rede Hiper,Samuel Neto,1.34,2.29,50
+1547,2024-01-25,Carne Bovina,Tem Tudo,Fábio Aragão,1.8,1.37,87
+1548,2026-01-26,Uva,Tem Tudo,Fábio Aragão,1.84,1.27,74
+1549,2025-01-28,Uva,Hiper Loja,Sara Marques,2.4,1.97,50
+1550,2026-01-27,Uva,Rede BIG,Fernanda Couto,1.56,1.31,33
+1551,2025-01-28,Maça,Super Extra,Manoel  Bezerra ,1.75,1.9,14
+1552,2026-01-28,Maça,Tem Tudo,Fábio Aragão,2.16,1.6,48
+1553,2026-01-28,Frango,Rede BIG,Fernanda Couto,0.5,1.9,110
+1554,2024-01-30,Farinha De Milho,Super Mega,Bruno Táles,1.14,2.24,87
+1555,2025-01-31,Farinha De Milho,Super Mega,Bruno Táles,1.09,1.5,60
+1556,2026-01-30,Peixe,Rede Good,Fernanda Souza,1.6,1.84,87
+1557,2024-02-01,Uva,Tem Tudo,Fábio Aragão,4.43,1.07,30
+1558,2026-01-31,Uva,Tem Tudo,Fábio Aragão,0.76,1.7,52
+1559,2025-02-01,Maça,Hiper Plus,Márcio Mendes,1.62,2.43,10
+1560,2026-02-01,Trigo,Tem Tudo,Fábio Aragão,1.7,1.71,62
+1561,2025-02-03,Carne Bovina,Hiper Plus,Márcio Mendes,0.92,1.95,36
+1562,2026-02-02,Laranja,Hiper Loja,Sara Marques,1.23,1.49,95
+1563,2026-02-03,Maça,Tem Tudo,Fábio Aragão,0.52,1.21,10
+1564,2026-02-03,Trigo,Rede BIG,Fernanda Couto,1.02,2.23,109
+1565,2024-02-05,Frango,Tem Tudo,Fábio Aragão,4.94,1.16,32
+1566,2024-02-05,Maça,Hiper Loja,Sara Marques,7.99,1.88,12
+1567,2024-02-05,Frango,Atacarejo,Thalissa Amélia,2.07,1.91,26
+1568,2025-02-05,Laranja,Super Extra,Manoel  Bezerra ,3.04,1.63,21
+1569,2026-02-05,Maça,Tem Tudo,Fábio Aragão,0.48,1.18,27
+1570,2025-02-06,Frango,Rede Hiper,Samuel Neto,2.18,2.64,110
+1571,2024-02-06,Frango,Tem Tudo,Fábio Aragão,1.52,1.73,52
+1572,2024-02-06,Trigo,Hiper Plus,Márcio Mendes,2.57,1.86,47
+1573,2026-02-07,Maça,Super Mega,Bruno Táles,1.5,1.85,19
+1574,2025-02-08,Trigo,Rede BIG,Fernanda Couto,2.88,1.3,30
+1575,2024-02-10,Soja,Hiper Plus,Márcio Mendes,2.75,1.88,12
+1576,2024-02-11,Frango,Super Extra,Manoel  Bezerra ,1.02,1.57,32
+1577,2024-02-11,Maça,Super Mega,Bruno Táles,1.74,1.7,114
+1578,2024-02-12,Uva,Super Extra,Manoel  Bezerra ,0.41,2.08,10
+1579,2025-02-14,Peixe,Atacarejo,Thalissa Amélia,0.47,1.8,113
+1580,2026-02-14,Soja,Hiper Loja,Sara Marques,1.41,1.33,50
+1581,2024-02-15,Maça,Atacarejo,Thalissa Amélia,0.55,2.14,24
+1582,2025-02-15,Uva,Super Extra,Manoel  Bezerra ,1.16,1.33,20
+1583,2024-02-15,Soja,Hiper Loja,Sara Marques,1.02,1.8,65
+1584,2024-02-15,Carne Bovina,Rede BIG,Fernanda Couto,1.01,1.97,110
+1585,2025-02-15,Peixe,Super Mega,Bruno Táles,1.38,1.93,100
+1586,2025-02-16,Carne Bovina,Atacarejo,Thalissa Amélia,0.29,1.97,62
+1587,2026-02-15,Maça,Super Mega,Bruno Táles,2.46,1.2,80
+1588,2026-02-15,Uva,Tem Tudo,Fábio Aragão,1.31,1.18,23
+1589,2025-02-19,Farinha De Milho,Rede BIG,Fernanda Couto,1.87,1.72,26
+1590,2025-02-19,Frango,Hiper Loja,Sara Marques,0.79,1.31,108
+1591,2025-02-19,Trigo,Hiper Plus,Márcio Mendes,0.16,1.94,27
+1592,2026-02-19,Maça,Rede BIG,Fernanda Couto,0.67,1.64,74
+1593,2026-02-19,Laranja,Rede BIG,Fernanda Couto,1.23,1.38,56
+1594,2024-02-20,Farinha De Milho,Super Extra,Manoel  Bezerra ,1.88,1.68,98
+1595,2025-02-21,Trigo,Super Mega,Bruno Táles,1.16,2.28,18
+1596,2026-02-22,Maça,Hiper Loja,Sara Marques,0.76,1.6,43
+1597,2025-02-24,Laranja,Atacarejo,Thalissa Amélia,1.35,1.4,92
+1598,2024-02-24,Farinha De Milho,Rede BIG,Fernanda Couto,1.49,1.67,105
+1599,2026-02-23,Farinha De Milho,Rede BIG,Fernanda Couto,2.34,1.2,75
+1600,2024-02-24,Peixe,Hiper Loja,Sara Marques,0.79,2.05,96
+1601,2025-02-26,Soja,Rede Hiper,Samuel Neto,0.89,1.81,87
+1602,2025-02-26,Maça,Super Mega,Bruno Táles,2.49,1.57,81
+1603,2024-02-27,Farinha De Milho,Super Extra,Manoel  Bezerra ,1.56,1.24,69
+1604,2026-02-27,Carne Bovina,Super Mega,Bruno Táles,0.92,1.44,59
+1605,2026-02-28,Peixe,Atacarejo,Thalissa Amélia,1.32,1.81,17
+1606,29/02/2025,Laranja,Hiper Loja,Sara Marques,0.51,1.87,65
+1607,2024-03-01,Uva,Super Mega,Bruno Táles,2.49,1.22,10
+1608,29/02/2025,Trigo,Rede Good,Fernanda Souza,0.58,1.76,95
+1609,2026-02-28,Trigo,Rede Hiper,Samuel Neto,0.7,1.86,40
+1610,2024-03-01,Farinha De Milho,Rede Hiper,Samuel Neto,0.26,1.69,31
+1611,2024-03-02,Uva,Atacarejo,Thalissa Amélia,0.62,1.93,55
+1612,2024-03-02,Maça,Super Mega,Bruno Táles,1.34,1.68,11
+1613,2025-03-01,Frango,Hiper Plus,Márcio Mendes,0.44,1.55,72
+1614,2024-03-02,Frango,Rede Hiper,Samuel Neto,0.25,1.95,100
+1615,2025-03-02,Soja,Rede Hiper,Samuel Neto,1.28,1.94,65
+1616,2025-03-02,Farinha De Milho,Hiper Loja,Sara Marques,3.8,1.44,28
+1617,2025-03-03,Maça,Atacarejo,Thalissa Amélia,1.33,1.5,70
+1618,2025-03-04,Soja,Super Mega,Bruno Táles,0.76,1.74,35
+1619,2026-03-06,Farinha De Milho,Tem Tudo,Fábio Aragão,1.27,1.27,15
+1620,2025-03-06,Maça,Super Mega,Bruno Táles,1.35,2.12,64
+1621,2026-03-07,Maça,Atacarejo,Thalissa Amélia,0.44,1.92,106
+1622,2026-03-07,Uva,Atacarejo,Thalissa Amélia,0.43,1.56,24
+1623,2026-03-08,Peixe,Rede BIG,Fernanda Couto,4.9,1.85,107
+1624,2026-03-09,Farinha De Milho,Rede Good,Fernanda Souza,1.77,1.62,13
+1625,2024-03-10,Maça,Rede Hiper,Samuel Neto,1.14,1.77,65
+1626,2026-03-09,Uva,Hiper Plus,Márcio Mendes,2.58,1.46,99
+1627,2024-03-10,Farinha De Milho,Atacarejo,Thalissa Amélia,1.5,1.6,23
+1628,2024-03-11,Peixe,Rede Hiper,Samuel Neto,2.13,2.51,110
+1629,2025-03-11,Laranja,Super Mega,Bruno Táles,2.44,1.48,20
+1630,2024-03-12,Frango,Rede BIG,Fernanda Couto,0.32,1.84,59
+1631,2024-03-13,Peixe,Rede Good,Fernanda Souza,1.1,1.86,24
+1632,2025-03-12,Trigo,Rede BIG,Fernanda Couto,1.77,2.32,36
+1633,2026-03-13,Frango,Atacarejo,Thalissa Amélia,0.89,2.11,114
+1634,2024-03-15,Soja,Rede BIG,Fernanda Couto,0.25,1.7,89
+1635,2026-03-15,Maça,Tem Tudo,Fábio Aragão,3.16,1.4,32
+1636,2024-03-16,Trigo,Super Mega,Bruno Táles,1.8,2.0,34
+1637,2026-03-15,Carne Bovina,Atacarejo,Thalissa Amélia,0.91,1.62,29
+1638,2025-03-15,Maça,Super Mega,Bruno Táles,1.01,2.22,11
+1639,2024-03-18,Carne Bovina,Rede Good,Fernanda Souza,1.17,2.0,16
+1640,2024-03-18,Carne Bovina,Atacarejo,Thalissa Amélia,4.6,1.81,65
+1641,2026-03-17,Trigo,Super Extra,Manoel  Bezerra ,1.22,1.94,14
+1642,2025-03-18,Farinha De Milho,Rede Good,Fernanda Souza,0.57,1.72,61
+1643,2024-03-19,Frango,Super Extra,Manoel  Bezerra ,2.42,1.93,40
+1644,2025-03-19,Soja,Rede Good,Fernanda Souza,2.82,1.8,115
+1645,2024-03-20,Carne Bovina,Tem Tudo,Fábio Aragão,2.82,1.24,108
+1646,2024-03-22,Carne Bovina,Hiper Loja,Sara Marques,0.42,1.78,98
+1647,2026-03-21,Carne Bovina,Rede Hiper,Samuel Neto,1.48,2.18,97
+1648,2025-03-23,Uva,Hiper Plus,Márcio Mendes,0.63,2.14,115
+1649,2024-03-25,Peixe,Tem Tudo,Fábio Aragão,0.69,1.22,96
+1650,2024-03-25,Trigo,Tem Tudo,Fábio Aragão,3.5,1.56,91
+1651,2024-03-28,Farinha De Milho,Rede Hiper,Samuel Neto,1.75,2.04,67
+1652,2025-03-27,Peixe,Rede Hiper,Samuel Neto,1.26,2.25,12
+1653,2026-03-28,Carne Bovina,Super Extra,Manoel  Bezerra ,2.01,1.68,87
+1654,2025-03-28,Laranja,Rede BIG,Fernanda Couto,0.41,1.6,26
+1655,2026-03-29,Laranja,Super Mega,Bruno Táles,0.73,1.48,93
+1656,2025-03-29,Farinha De Milho,Rede Good,Fernanda Souza,1.43,1.76,83
+1657,2024-04-01,Laranja,Tem Tudo,Fábio Aragão,1.1,1.79,61
+1658,2026-04-01,Peixe,Rede Hiper,Samuel Neto,1.23,2.18,64
+1659,2024-04-03,Uva,Hiper Plus,Márcio Mendes,0.18,1.65,68
+1660,2024-04-04,Maça,Super Extra,Manoel  Bezerra ,2.3,1.34,54
+1661,2025-04-03,Trigo,Atacarejo,Thalissa Amélia,2.77,1.58,29
+1662,2024-04-05,Farinha De Milho,Atacarejo,Thalissa Amélia,1.25,1.74,22
+1663,2026-04-04,Peixe,Rede Good,Fernanda Souza,0.63,1.61,48
+1664,2025-04-05,Laranja,Super Mega,Bruno Táles,0.71,1.54,63
+1665,2024-04-06,Soja,Rede Good,Fernanda Souza,0.44,1.51,55
+1666,2026-04-06,Peixe,Super Mega,Bruno Táles,1.76,1.19,58
+1667,2024-04-07,Laranja,Rede Hiper,Samuel Neto,0.68,2.14,70
+1668,2024-04-08,Soja,Rede Good,Fernanda Souza,1.3,1.74,93
+1669,2025-04-08,Peixe,Rede BIG,Fernanda Couto,2.74,1.84,39
+1670,2025-04-08,Carne Bovina,Hiper Loja,Sara Marques,0.72,1.49,99
+1671,2026-04-08,Carne Bovina,Hiper Loja,Sara Marques,0.6,2.04,89
+1672,2025-04-08,Peixe,Hiper Loja,Sara Marques,2.45,1.84,54
+1673,2026-04-08,Farinha De Milho,Super Extra,Manoel  Bezerra ,1.28,1.62,83
+1674,2024-04-09,Soja,Tem Tudo,Fábio Aragão,1.44,1.61,26
+1675,2024-04-09,Uva,Super Extra,Manoel  Bezerra ,0.61,2.18,94
+1676,2025-04-09,Frango,Tem Tudo,Fábio Aragão,2.16,1.41,103
+1677,2026-04-09,Uva,Hiper Plus,Márcio Mendes,0.83,2.08,112
+1678,2025-04-09,Uva,Rede Good,Fernanda Souza,1.05,1.87,105
+1679,2024-04-11,Soja,Rede BIG,Fernanda Couto,2.4,1.56,12
+1680,2026-04-10,Maça,Rede BIG,Fernanda Couto,3.96,1.6,65
+1681,2024-04-12,Frango,Super Extra,Manoel  Bezerra ,1.79,1.37,10
+1682,2024-04-12,Frango,Super Mega,Bruno Táles,1.79,2.16,105
+1683,2025-04-11,Laranja,Atacarejo,Thalissa Amélia,1.1,1.5,49
+1684,2024-04-13,Peixe,Rede BIG,Fernanda Couto,1.32,1.49,24
+1685,2025-04-12,Peixe,Tem Tudo,Fábio Aragão,1.57,1.19,59
+1686,2024-04-13,Peixe,Rede BIG,Fernanda Couto,1.72,1.82,112
+1687,2024-04-13,Uva,Rede BIG,Fernanda Couto,3.06,1.66,43
+1688,2026-04-12,Farinha De Milho,Hiper Plus,Márcio Mendes,3.54,2.31,32
+1689,2026-04-13,Farinha De Milho,Hiper Plus,Márcio Mendes,1.53,1.8,54
+1690,2025-04-14,Trigo,Atacarejo,Thalissa Amélia,1.36,1.51,20
+1691,2024-04-15,Uva,Super Extra,Manoel  Bezerra ,1.22,1.68,66
+1692,2025-04-14,Frango,Super Mega,Bruno Táles,3.15,1.8,112
+1693,2026-04-15,Carne Bovina,Rede Good,Fernanda Souza,1.89,1.43,68
+1694,2026-04-15,Trigo,Hiper Loja,Sara Marques,0.49,1.36,94
+1695,2025-04-16,Carne Bovina,Rede Hiper,Samuel Neto,1.27,1.95,111
+1696,2025-04-17,Carne Bovina,Atacarejo,Thalissa Amélia,3.75,1.9,98
+1697,2024-04-19,Peixe,Rede Hiper,Samuel Neto,0.37,2.03,98
+1698,2026-04-19,Trigo,Hiper Plus,Márcio Mendes,0.7,2.01,80
+1699,2024-04-22,Farinha De Milho,Rede Hiper,Samuel Neto,0.54,2.01,108
+1700,2025-04-24,Soja,Super Extra,Manoel  Bezerra ,1.11,1.24,113
+1701,2025-04-25,Carne Bovina,Rede Hiper,Samuel Neto,1.04,2.45,74
+1702,2026-04-25,Uva,Rede Hiper,Samuel Neto,0.86,1.92,26
+1703,2024-04-26,Uva,Tem Tudo,Fábio Aragão,0.49,1.55,27
+1704,2025-04-27,Farinha De Milho,Tem Tudo,Fábio Aragão,3.87,1.44,19
+1705,2026-04-29,Farinha De Milho,Hiper Plus,Márcio Mendes,1.7,1.66,95
+1706,2024-04-30,Farinha De Milho,Hiper Plus,Márcio Mendes,0.23,2.7,38
+1707,2024-05-01,Uva,Super Extra,Manoel  Bezerra ,6.57,1.79,55
+1708,2026-04-30,Laranja,Rede BIG,Fernanda Couto,1.04,2.18,66
+1709,2025-05-01,Carne Bovina,Rede BIG,Fernanda Couto,1.22,1.68,39
+1710,2026-05-01,Frango,Super Extra,Manoel  Bezerra ,1.27,1.8,86
+1711,2025-05-01,Frango,Hiper Loja,Sara Marques,1.53,2.08,11
+1712,2026-05-02,Peixe,Rede Hiper,Samuel Neto,0.56,2.03,83
+1713,2024-05-03,Uva,Tem Tudo,Fábio Aragão,1.0,1.12,95
+1714,2024-05-03,Laranja,Hiper Loja,Sara Marques,1.85,1.61,41
+1715,2025-05-04,Trigo,Rede BIG,Fernanda Couto,3.72,1.72,34
+1716,2025-05-04,Frango,Atacarejo,Thalissa Amélia,0.55,1.57,90
+1717,2026-05-06,Frango,Super Extra,Manoel  Bezerra ,0.52,1.54,20
+1718,2026-05-07,Laranja,Tem Tudo,Fábio Aragão,3.14,1.25,88
+1719,2026-05-07,Uva,Atacarejo,Thalissa Amélia,2.15,1.6,111
+1720,2025-05-07,Farinha De Milho,Hiper Plus,Márcio Mendes,1.06,2.33,11
+1721,2024-05-08,Soja,Hiper Loja,Sara Marques,0.84,1.68,102
+1722,2026-05-07,Peixe,Rede Good,Fernanda Souza,2.77,1.49,51
+1723,2024-05-09,Uva,Rede BIG,Fernanda Couto,0.54,1.7,48
+1724,2024-05-10,Maça,Hiper Loja,Sara Marques,0.75,1.42,13
+1725,2026-05-10,Soja,Hiper Loja,Sara Marques,0.97,1.24,49
+1726,2026-05-10,Soja,Hiper Plus,Márcio Mendes,2.84,2.1,112
+1727,2025-05-10,Frango,Hiper Plus,Márcio Mendes,0.88,2.14,14
+1728,2025-05-11,Trigo,Tem Tudo,Fábio Aragão,3.32,1.49,45
+1729,2026-05-11,Uva,Hiper Loja,Sara Marques,1.63,1.28,46
+1730,2026-05-12,Farinha De Milho,Rede Good,Fernanda Souza,1.1,2.04,96
+1731,2024-05-14,Trigo,Super Mega,Bruno Táles,0.93,1.9,89
+1732,2025-05-13,Farinha De Milho,Hiper Loja,Sara Marques,1.72,1.75,20
+1733,2024-05-14,Soja,Super Extra,Manoel  Bezerra ,1.18,1.87,40
+1734,2024-05-14,Carne Bovina,Hiper Loja,Sara Marques,1.77,1.87,41
+1735,2026-05-14,Carne Bovina,Tem Tudo,Fábio Aragão,2.0,1.57,104
+1736,2024-05-15,Trigo,Super Mega,Bruno Táles,1.22,1.45,64
+1737,2024-05-15,Laranja,Hiper Loja,Sara Marques,1.18,2.15,55
+1738,2024-05-17,Peixe,Super Extra,Manoel  Bezerra ,4.43,1.66,60
+1739,2026-05-16,Uva,Tem Tudo,Fábio Aragão,2.04,1.82,58
+1740,2025-05-16,Farinha De Milho,Rede Hiper,Samuel Neto,0.82,1.85,47
+1741,2025-05-17,Laranja,Super Extra,Manoel  Bezerra ,0.52,2.02,67
+1742,2026-05-17,Trigo,Tem Tudo,Fábio Aragão,1.2,1.51,89
+1743,2024-05-19,Frango,Hiper Plus,Márcio Mendes,5.98,1.43,63
+1744,2024-05-19,Peixe,Super Extra,Manoel  Bezerra ,0.56,2.18,98
+1745,2025-05-19,Laranja,Atacarejo,Thalissa Amélia,0.41,1.64,78
+1746,2025-05-19,Soja,Super Extra,Manoel  Bezerra ,3.21,1.91,99
+1747,2024-05-20,Maça,Hiper Plus,Márcio Mendes,3.32,1.58,52
+1748,2026-05-19,Laranja,Hiper Plus,Márcio Mendes,0.92,2.43,76
+1749,2024-05-21,Farinha De Milho,Rede Hiper,Samuel Neto,0.16,2.04,78
+1750,2024-05-23,Trigo,Hiper Loja,Sara Marques,1.23,1.33,103
+1751,2026-05-22,Maça,Super Extra,Manoel  Bezerra ,1.91,1.28,55
+1752,2025-05-23,Maça,Super Extra,Manoel  Bezerra ,1.77,1.36,25
+1753,2026-05-24,Laranja,Rede Hiper,Samuel Neto,2.59,1.57,79
+1754,2025-05-24,Peixe,Super Mega,Bruno Táles,1.54,1.28,32
+1755,2026-05-24,Carne Bovina,Hiper Loja,Sara Marques,1.01,1.39,76
+1756,2026-05-24,Trigo,Super Extra,Manoel  Bezerra ,2.59,1.75,76
+1757,2026-05-24,Laranja,Rede Hiper,Samuel Neto,1.09,1.86,43
+1758,2025-05-25,Carne Bovina,Rede Good,Fernanda Souza,0.82,1.73,88
+1759,2024-05-27,Carne Bovina,Rede Hiper,Samuel Neto,1.21,2.12,35
+1760,2026-05-27,Trigo,Rede BIG,Fernanda Couto,1.45,1.55,66
+1761,2026-05-27,Laranja,Super Mega,Bruno Táles,0.58,1.76,73
+1762,2025-05-28,Maça,Tem Tudo,Fábio Aragão,1.58,1.33,92
+1763,2024-05-29,Trigo,Hiper Plus,Márcio Mendes,0.96,2.35,33
+1764,2025-05-29,Carne Bovina,Atacarejo,Thalissa Amélia,0.47,2.22,35
+1765,2024-05-30,Carne Bovina,Super Mega,Bruno Táles,2.7,1.45,106
+1766,2024-05-31,Laranja,Rede Hiper,Samuel Neto,0.4,2.13,41
+1767,2024-05-31,Laranja,Super Mega,Bruno Táles,2.61,1.78,76
+1768,2026-05-30,Uva,Rede BIG,Fernanda Couto,0.97,1.75,15
+1769,2024-06-01,Uva,Super Mega,Bruno Táles,1.13,1.9,51
+1770,2024-06-01,Peixe,Super Extra,Manoel  Bezerra ,1.53,1.49,74
+1771,2026-05-31,Uva,Tem Tudo,Fábio Aragão,1.57,1.4,41
+1772,2024-06-01,Carne Bovina,Super Extra,Manoel  Bezerra ,0.25,1.56,85
+1773,2026-05-31,Carne Bovina,Tem Tudo,Fábio Aragão,0.41,1.64,32
+1774,2024-06-02,Farinha De Milho,Rede Hiper,Samuel Neto,0.83,2.37,33
+1775,2024-06-02,Laranja,Rede BIG,Fernanda Couto,2.71,1.26,62
+1776,2026-06-01,Peixe,Rede Good,Fernanda Souza,1.29,1.79,57
+1777,2025-06-02,Peixe,Rede Good,Fernanda Souza,2.85,1.61,38
+1778,2025-06-02,Maça,Hiper Plus,Márcio Mendes,0.87,2.44,54
+1779,2024-06-06,Trigo,Rede Hiper,Samuel Neto,2.03,2.56,17
+1780,2026-06-05,Peixe,Rede BIG,Fernanda Couto,1.4,1.69,50
+1781,2025-06-06,Laranja,Hiper Plus,Márcio Mendes,1.18,2.32,81
+1782,2025-06-06,Laranja,Hiper Loja,Sara Marques,1.78,1.52,114
+1783,2026-06-06,Farinha De Milho,Hiper Loja,Sara Marques,3.16,1.78,39
+1784,2026-06-06,Frango,Rede BIG,Fernanda Couto,1.32,1.55,26
+1785,2024-06-09,Uva,Tem Tudo,Fábio Aragão,0.73,1.11,64
+1786,2025-06-08,Laranja,Tem Tudo,Fábio Aragão,1.55,1.3,60
+1787,2026-06-09,Uva,Super Extra,Manoel  Bezerra ,1.47,1.54,93
+1788,2026-06-10,Farinha De Milho,Hiper Loja,Sara Marques,0.84,1.78,96
+1789,2024-06-11,Carne Bovina,Super Extra,Manoel  Bezerra ,2.14,1.58,11
+1790,2024-06-14,Soja,Rede BIG,Fernanda Couto,0.66,1.45,31
+1791,2025-06-13,Frango,Rede Good,Fernanda Souza,1.93,1.4,28
+1792,2026-06-14,Trigo,Super Extra,Manoel  Bezerra ,1.76,2.12,32
+1793,2025-06-14,Uva,Rede BIG,Fernanda Couto,2.29,1.66,60
+1794,2026-06-15,Frango,Super Extra,Manoel  Bezerra ,1.46,1.91,12
+1795,2025-06-15,Farinha De Milho,Rede BIG,Fernanda Couto,0.69,1.98,65
+1796,2024-06-16,Frango,Tem Tudo,Fábio Aragão,1.12,1.05,18
+1797,2024-06-16,Laranja,Rede Good,Fernanda Souza,2.72,1.55,65
+1798,2024-06-17,Maça,Hiper Loja,Sara Marques,2.46,1.26,40
+1799,2025-06-16,Carne Bovina,Hiper Plus,Márcio Mendes,1.59,2.34,111
+1800,2024-06-17,Trigo,Hiper Plus,Márcio Mendes,0.88,1.92,24
+1801,2024-06-18,Uva,Atacarejo,Thalissa Amélia,2.51,1.5,58
+1802,2026-06-17,Laranja,Atacarejo,Thalissa Amélia,2.91,1.75,41
+1803,2026-06-18,Peixe,Super Mega,Bruno Táles,5.48,1.64,77
+1804,2026-06-19,Peixe,Hiper Loja,Sara Marques,0.73,1.54,92
+1805,2026-06-20,Frango,Atacarejo,Thalissa Amélia,0.9,1.58,72
+1806,2026-06-21,Peixe,Tem Tudo,Fábio Aragão,2.32,1.71,67
+1807,2026-06-22,Farinha De Milho,Hiper Loja,Sara Marques,2.19,1.7,88
+1808,2025-06-24,Laranja,Hiper Plus,Márcio Mendes,0.71,2.07,33
+1809,2024-06-26,Carne Bovina,Hiper Loja,Sara Marques,0.98,1.79,83
+1810,2025-06-25,Soja,Super Mega,Bruno Táles,0.74,1.98,32
+1811,2024-06-26,Uva,Tem Tudo,Fábio Aragão,1.86,1.04,102
+1812,2026-06-26,Trigo,Super Extra,Manoel  Bezerra ,0.69,1.88,51
+1813,2024-06-27,Peixe,Rede Hiper,Samuel Neto,3.17,2.0,65
+1814,2026-06-26,Farinha De Milho,Hiper Loja,Sara Marques,0.45,1.79,48
+1815,2025-06-27,Carne Bovina,Rede Hiper,Samuel Neto,1.04,1.44,100
+1816,2025-06-28,Farinha De Milho,Rede Good,Fernanda Souza,2.9,1.28,74
+1817,2026-06-29,Farinha De Milho,Rede Hiper,Samuel Neto,1.33,1.93,84
+1818,2026-06-29,Maça,Super Mega,Bruno Táles,1.15,1.44,99
+1819,2025-06-30,Maça,Rede Good,Fernanda Souza,1.04,1.88,57
+1820,2026-06-30,Farinha De Milho,Super Mega,Bruno Táles,1.5,1.64,86
+1821,2024-07-02,Laranja,Rede Good,Fernanda Souza,1.24,1.31,94
+1822,2026-07-01,Laranja,Hiper Loja,Sara Marques,1.21,1.44,11
+1823,2024-07-02,Trigo,Hiper Loja,Sara Marques,0.61,2.17,113
+1824,2024-07-03,Maça,Tem Tudo,Fábio Aragão,1.58,1.69,16
+1825,2025-07-02,Farinha De Milho,Hiper Loja,Sara Marques,1.59,1.57,27
+1826,2025-07-02,Soja,Hiper Loja,Sara Marques,3.81,1.6,58
+1827,2026-07-03,Uva,Atacarejo,Thalissa Amélia,1.74,2.03,36
+1828,2026-07-03,Farinha De Milho,Rede Good,Fernanda Souza,1.27,1.67,19
+1829,2026-07-04,Trigo,Hiper Plus,Márcio Mendes,0.46,1.6,34
+1830,2025-07-05,Maça,Tem Tudo,Fábio Aragão,1.43,1.66,14
+1831,2026-07-05,Frango,Hiper Loja,Sara Marques,4.32,2.1,50
+1832,2026-07-06,Farinha De Milho,Rede BIG,Fernanda Couto,2.96,1.81,44
+1833,2026-07-07,Farinha De Milho,Hiper Loja,Sara Marques,2.7,1.73,114
+1834,2025-07-07,Laranja,Rede Hiper,Samuel Neto,0.33,2.32,100
+1835,2025-07-08,Maça,Hiper Plus,Márcio Mendes,0.93,1.94,104
+1836,2025-07-09,Frango,Hiper Plus,Márcio Mendes,0.64,2.02,92
+1837,2026-07-09,Soja,Hiper Plus,Márcio Mendes,3.26,2.42,69
+1838,2024-07-11,Soja,Hiper Plus,Márcio Mendes,0.92,2.12,36
+1839,2025-07-11,Farinha De Milho,Hiper Plus,Márcio Mendes,1.37,2.14,59
+1840,2026-07-11,Maça,Super Mega,Bruno Táles,3.23,1.57,71
+1841,2024-07-13,Frango,Rede Good,Fernanda Souza,1.04,1.87,69
+1842,2026-07-12,Uva,Super Extra,Manoel  Bezerra ,0.28,1.19,84
+1843,2025-07-12,Trigo,Atacarejo,Thalissa Amélia,1.54,1.25,77
+1844,2024-07-14,Peixe,Hiper Plus,Márcio Mendes,1.05,1.84,47
+1845,2026-07-13,Frango,Hiper Loja,Sara Marques,0.76,1.68,78
+1846,2026-07-13,Peixe,Super Extra,Manoel  Bezerra ,4.16,1.78,102
+1847,2025-07-13,Farinha De Milho,Super Mega,Bruno Táles,1.98,1.74,29
+1848,2024-07-15,Frango,Atacarejo,Thalissa Amélia,0.72,1.96,57
+1849,2026-07-15,Carne Bovina,Tem Tudo,Fábio Aragão,0.94,1.25,66
+1850,2026-07-15,Laranja,Hiper Loja,Sara Marques,2.67,1.63,81
+1851,2024-07-16,Soja,Hiper Loja,Sara Marques,1.48,1.74,89
+1852,2025-07-15,Maça,Rede BIG,Fernanda Couto,2.53,1.63,66
+1853,2025-07-15,Frango,Hiper Loja,Sara Marques,0.69,2.02,51
+1854,2025-07-17,Peixe,Super Mega,Bruno Táles,1.2,1.63,35
+1855,2024-07-18,Soja,Atacarejo,Thalissa Amélia,1.68,2.36,69
+1856,2024-07-18,Trigo,Super Mega,Bruno Táles,4.95,1.68,25
+1857,2026-07-19,Soja,Hiper Loja,Sara Marques,0.86,1.63,80
+1858,2025-07-21,Trigo,Rede Hiper,Samuel Neto,2.82,2.14,27
+1859,2025-07-22,Farinha De Milho,Super Extra,Manoel  Bezerra ,1.63,1.42,24
+1860,2025-07-22,Carne Bovina,Hiper Loja,Sara Marques,0.73,1.45,100
+1861,2024-07-23,Maça,Hiper Plus,Márcio Mendes,1.05,1.95,18
+1862,2025-07-23,Frango,Hiper Plus,Márcio Mendes,1.08,1.85,54
+1863,2024-07-24,Peixe,Super Mega,Bruno Táles,2.77,2.12,84
+1864,2024-07-24,Carne Bovina,Super Mega,Bruno Táles,1.57,1.42,59
+1865,2026-07-24,Uva,Hiper Loja,Sara Marques,2.23,1.55,82
+1866,2026-07-25,Carne Bovina,Rede Good,Fernanda Souza,1.75,2.15,27
+1867,2025-07-25,Laranja,Super Mega,Bruno Táles,1.27,1.91,33
+1868,2026-07-26,Laranja,Rede Good,Fernanda Souza,0.34,1.9,80
+1869,2024-07-29,Laranja,Tem Tudo,Fábio Aragão,0.7,1.39,80
+1870,2026-07-28,Farinha De Milho,Rede Hiper,Samuel Neto,0.9,1.57,66
+1871,2024-07-30,Uva,Hiper Plus,Márcio Mendes,0.51,1.83,20
+1872,2024-08-01,Maça,Super Mega,Bruno Táles,1.61,2.15,56
+1873,2024-08-01,Soja,Super Extra,Manoel  Bezerra ,1.6,1.39,110
+1874,2026-07-31,Soja,Super Extra,Manoel  Bezerra ,2.66,1.51,38
+1875,2026-07-31,Farinha De Milho,Hiper Plus,Márcio Mendes,0.94,1.85,13
+1876,2024-08-02,Laranja,Tem Tudo,Fábio Aragão,1.04,1.29,92
+1877,2026-08-01,Farinha De Milho,Hiper Plus,Márcio Mendes,1.03,2.3,53
+1878,2026-08-02,Uva,Super Extra,Manoel  Bezerra ,3.55,2.12,63
+1879,2025-08-02,Carne Bovina,Rede Hiper,Samuel Neto,0.93,1.72,61
+1880,2025-08-03,Carne Bovina,Super Extra,Manoel  Bezerra ,2.1,1.82,58
+1881,2024-08-04,Carne Bovina,Super Extra,Manoel  Bezerra ,1.34,1.67,21
+1882,2025-08-04,Carne Bovina,Hiper Loja,Sara Marques,1.93,1.57,91
+1883,2026-08-05,Laranja,Rede BIG,Fernanda Couto,1.12,2.08,112
+1884,2026-08-05,Peixe,Super Mega,Bruno Táles,1.81,1.42,48
+1885,2025-08-06,Carne Bovina,Rede BIG,Fernanda Couto,1.64,1.75,28
+1886,2024-08-07,Peixe,Atacarejo,Thalissa Amélia,1.34,1.45,53
+1887,2025-08-06,Soja,Rede BIG,Fernanda Couto,0.73,1.74,41
+1888,2026-08-06,Carne Bovina,Atacarejo,Thalissa Amélia,0.82,1.99,90
+1889,2026-08-07,Farinha De Milho,Rede Hiper,Samuel Neto,2.65,1.84,112
+1890,2026-08-07,Laranja,Hiper Plus,Márcio Mendes,0.72,2.03,45
+1891,2026-08-07,Maça,Rede Hiper,Samuel Neto,2.53,1.91,41
+1892,2024-08-08,Uva,Hiper Plus,Márcio Mendes,1.06,1.9,86
+1893,2025-08-08,Peixe,Hiper Plus,Márcio Mendes,0.45,2.07,64
+1894,2026-08-08,Trigo,Tem Tudo,Fábio Aragão,3.47,1.33,96
+1895,2025-08-08,Uva,Super Mega,Bruno Táles,1.51,1.32,22
+1896,2025-08-09,Soja,Hiper Loja,Sara Marques,2.42,1.39,46
+1897,2024-08-11,Uva,Hiper Loja,Sara Marques,2.77,2.24,96
+1898,2026-08-11,Trigo,Hiper Loja,Sara Marques,1.27,1.93,25
+1899,2026-08-11,Laranja,Hiper Loja,Sara Marques,0.81,1.82,49
+1900,2026-08-11,Maça,Rede BIG,Fernanda Couto,1.44,2.26,56
+1901,2025-08-11,Carne Bovina,Rede BIG,Fernanda Couto,0.97,1.62,85
+1902,2025-08-11,Peixe,Hiper Loja,Sara Marques,0.9,1.5,18
+1903,2024-08-12,Uva,Tem Tudo,Fábio Aragão,3.75,1.38,90
+1904,2024-08-13,Peixe,Rede Hiper,Samuel Neto,2.22,1.77,31
+1905,2024-08-13,Trigo,Hiper Plus,Márcio Mendes,1.13,2.03,69
+1906,2026-08-13,Peixe,Rede Good,Fernanda Souza,2.15,2.02,72
+1907,2025-08-15,Trigo,Hiper Loja,Sara Marques,1.05,1.82,84
+1908,2026-08-15,Carne Bovina,Hiper Loja,Sara Marques,2.23,1.2,114
+1909,2025-08-15,Frango,Rede Good,Fernanda Souza,0.46,1.44,69
+1910,2026-08-15,Frango,Atacarejo,Thalissa Amélia,1.51,1.88,65
+1911,2025-08-16,Uva,Rede Good,Fernanda Souza,1.26,1.81,88
+1912,2026-08-17,Frango,Tem Tudo,Fábio Aragão,1.71,1.58,112
+1913,2024-08-18,Uva,Hiper Loja,Sara Marques,0.41,1.97,18
+1914,2025-08-17,Soja,Super Mega,Bruno Táles,2.25,1.57,97
+1915,2026-08-17,Laranja,Hiper Loja,Sara Marques,1.04,2.28,103
+1916,2026-08-18,Maça,Rede BIG,Fernanda Couto,1.03,1.54,40
+1917,2026-08-18,Peixe,Rede Hiper,Samuel Neto,2.45,2.21,19
+1918,2026-08-18,Peixe,Rede Good,Fernanda Souza,0.9,2.03,61
+1919,2024-08-20,Trigo,Rede Hiper,Samuel Neto,0.46,2.02,41
+1920,2024-08-21,Uva,Super Extra,Manoel  Bezerra ,1.86,1.93,30
+1921,2024-08-21,Frango,Super Mega,Bruno Táles,0.27,2.1,45
+1922,2026-08-20,Laranja,Rede BIG,Fernanda Couto,3.85,1.52,108
+1923,2025-08-21,Peixe,Rede BIG,Fernanda Couto,1.45,1.22,96
+1924,2024-08-22,Farinha De Milho,Rede Hiper,Samuel Neto,3.33,1.61,114
+1925,2026-08-21,Uva,Super Extra,Manoel  Bezerra ,2.1,1.5,84
+1926,2026-08-21,Soja,Rede Hiper,Samuel Neto,0.47,2.19,16
+1927,2024-08-22,Peixe,Hiper Plus,Márcio Mendes,4.4,1.57,38
+1928,2025-08-21,Maça,Rede Hiper,Samuel Neto,1.32,2.5,15
+1929,2026-08-22,Trigo,Rede Good,Fernanda Souza,0.62,1.45,60
+1930,2026-08-22,Farinha De Milho,Hiper Plus,Márcio Mendes,2.21,2.17,83
+1931,2025-08-22,Maça,Super Mega,Bruno Táles,1.04,2.3,111
+1932,2024-08-24,Trigo,Rede Good,Fernanda Souza,1.87,1.68,85
+1933,2026-08-25,Peixe,Rede Hiper,Samuel Neto,2.04,2.18,13
+1934,2026-08-27,Carne Bovina,Super Mega,Bruno Táles,1.43,1.48,28
+1935,2026-08-28,Uva,Hiper Plus,Márcio Mendes,2.56,2.03,30
+1936,2025-08-28,Maça,Rede Hiper,Samuel Neto,0.95,1.65,34
+1937,2026-08-29,Peixe,Hiper Plus,Márcio Mendes,1.06,1.95,46
+1938,2025-08-29,Trigo,Rede Good,Fernanda Souza,2.22,1.34,77
+1939,2026-08-31,Uva,Rede Hiper,Samuel Neto,1.09,2.19,50
+1940,2024-09-01,Carne Bovina,Super Extra,Manoel  Bezerra ,1.09,1.3,113
+1941,2024-09-01,Trigo,Atacarejo,Thalissa Amélia,1.91,2.18,31
+1942,2025-09-01,Carne Bovina,Rede Hiper,Samuel Neto,0.59,1.91,28
+1943,2025-09-02,Trigo,Super Mega,Bruno Táles,2.11,1.68,96
+1944,2024-09-04,Trigo,Super Extra,Manoel  Bezerra ,3.2,1.72,39
+1945,2026-09-04,Maça,Hiper Loja,Sara Marques,3.9,1.55,66
+1946,2025-09-05,Laranja,Rede Good,Fernanda Souza,1.99,1.54,26
+1947,2024-09-07,Carne Bovina,Rede BIG,Fernanda Couto,2.38,2.18,65
+1948,2025-09-06,Peixe,Super Mega,Bruno Táles,0.98,1.76,48
+1949,2026-09-07,Peixe,Atacarejo,Thalissa Amélia,1.14,1.82,86
+1950,2026-09-07,Peixe,Atacarejo,Thalissa Amélia,1.65,2.18,28
+1951,2026-09-07,Trigo,Super Extra,Manoel  Bezerra ,3.97,1.87,64
+1952,2024-09-09,Maça,Atacarejo,Thalissa Amélia,3.01,1.98,88
+1953,2024-09-10,Peixe,Super Mega,Bruno Táles,0.86,2.15,103
+1954,2024-09-10,Peixe,Rede Hiper,Samuel Neto,1.39,2.04,68
+1955,2026-09-09,Farinha De Milho,Tem Tudo,Fábio Aragão,1.27,1.56,26
+1956,2024-09-11,Soja,Super Mega,Bruno Táles,1.31,1.49,113
+1957,2025-09-10,Frango,Hiper Plus,Márcio Mendes,1.1,2.1,30
+1958,2025-09-10,Farinha De Milho,Rede BIG,Fernanda Couto,0.6,2.11,44
+1959,2024-09-12,Soja,Atacarejo,Thalissa Amélia,1.78,1.8,60
+1960,2026-09-11,Laranja,Atacarejo,Thalissa Amélia,2.56,1.28,18
+1961,2026-09-12,Carne Bovina,Hiper Plus,Márcio Mendes,1.29,2.3,75
+1962,2026-09-13,Soja,Super Mega,Bruno Táles,2.54,1.6,68
+1963,2024-09-16,Uva,Super Extra,Manoel  Bezerra ,0.76,1.46,115
+1964,2025-09-16,Trigo,Hiper Loja,Sara Marques,1.5,1.7,105
+1965,2026-09-16,Soja,Atacarejo,Thalissa Amélia,1.68,1.66,66
+1966,2024-09-18,Carne Bovina,Super Extra,Manoel  Bezerra ,1.52,1.8,79
+1967,2025-09-17,Laranja,Rede Good,Fernanda Souza,1.29,1.79,54
+1968,2024-09-19,Soja,Hiper Plus,Márcio Mendes,2.25,1.61,25
+1969,2024-09-20,Uva,Hiper Plus,Márcio Mendes,0.78,1.86,80
+1970,2024-09-20,Carne Bovina,Atacarejo,Thalissa Amélia,0.23,1.68,62
+1971,2026-09-21,Laranja,Rede Good,Fernanda Souza,1.13,1.73,86
+1972,2024-09-22,Peixe,Rede Good,Fernanda Souza,1.17,1.25,35
+1973,2024-09-23,Uva,Super Extra,Manoel  Bezerra ,0.19,1.69,81
+1974,2024-09-23,Farinha De Milho,Hiper Plus,Márcio Mendes,0.73,2.39,115
+1975,2024-09-24,Trigo,Tem Tudo,Fábio Aragão,0.69,1.67,26
+1976,2026-09-23,Laranja,Rede BIG,Fernanda Couto,0.63,1.5,40
+1977,2024-09-26,Frango,Hiper Plus,Márcio Mendes,2.01,1.88,33
+1978,2026-09-25,Trigo,Rede Hiper,Samuel Neto,0.69,2.15,88
+1979,2025-09-26,Carne Bovina,Rede Hiper,Samuel Neto,0.25,1.78,89
+1980,2024-09-27,Farinha De Milho,Rede Good,Fernanda Souza,2.02,1.91,48
+1981,2024-09-28,Farinha De Milho,Super Extra,Manoel  Bezerra ,0.37,1.61,21
+1982,2024-09-29,Trigo,Rede Hiper,Samuel Neto,1.0,1.77,61
+1983,2024-09-29,Maça,Rede Good,Fernanda Souza,0.93,1.7,14
+1984,2026-09-29,Uva,Super Mega,Bruno Táles,0.54,1.94,102
+1985,2025-09-30,Soja,Rede Good,Fernanda Souza,2.73,1.62,91
+1986,2025-10-01,Farinha De Milho,Rede Good,Fernanda Souza,0.79,1.54,24
+1987,2025-10-02,Uva,Super Extra,Manoel  Bezerra ,0.41,1.74,103
+1988,2025-10-02,Laranja,Hiper Plus,Márcio Mendes,3.26,2.17,67
+1989,2024-10-04,Uva,Tem Tudo,Fábio Aragão,2.11,1.14,54
+1990,2026-10-03,Maça,Rede Hiper,Samuel Neto,1.07,2.16,108
+1991,2024-10-05,Soja,Tem Tudo,Fábio Aragão,0.75,1.74,95
+1992,2026-10-04,Laranja,Hiper Loja,Sara Marques,0.36,1.81,108
+1993,2026-10-05,Laranja,Rede Good,Fernanda Souza,1.07,1.93,22
+1994,2025-10-05,Uva,Hiper Plus,Márcio Mendes,1.0,2.04,103
+1995,2025-10-05,Soja,Super Mega,Bruno Táles,1.24,1.93,107
+1996,2026-10-05,Uva,Hiper Plus,Márcio Mendes,0.69,1.94,87
+1997,2025-10-06,Laranja,Hiper Plus,Márcio Mendes,1.22,1.68,96
+1998,2026-10-06,Carne Bovina,Hiper Loja,Sara Marques,3.55,2.04,68
+1999,2024-10-11,Peixe,Atacarejo,Thalissa Amélia,2.02,1.58,42
+2000,2026-10-12,Uva,Super Mega,Bruno Táles,2.49,1.56,10
